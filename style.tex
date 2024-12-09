@@ -1,5 +1,8 @@
 \usepackage{footmisc}
-\makeatletter
-\renewcommand\@makefntext[1]{\footnotesize #1}
-\makeatother
-\renewcommand{\footnotesize}{\fontsize{9}{11}\selectfont}
+\usepackage{chngcntr}
+\usepackage{caption}
+\usepackage[section]{placeins}
+\usepackage{float}
+\usepackage{graphicx}
+\counterwithout{footnote}{chapter}
+\counterwithin{figure}{chapter}
