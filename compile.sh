@@ -3,56 +3,105 @@
 # Set colors for output
 GREEN='\033[0;32m'
 RED='\033[0;31m'
+YELLOW='\033[1;33m'
 NC='\033[0m' # No Color
 
 # Print with color
 print_status() {
-    if [ $1 = "success" ]; then
-        echo -e "${GREEN}$2${NC}"
-    else
-        echo -e "${RED}$2${NC}"
+    case $1 in
+        "success") echo -e "${GREEN}$2${NC}" ;;
+        "error") echo -e "${RED}$2${NC}" ;;
+        "warning") echo -e "${YELLOW}$2${NC}" ;;
+    esac
+}
+
+# Check for required commands
+check_dependencies() {
+    local missing_deps=()
+    for cmd in pandoc xelatex biber; do
+        if ! command -v $cmd &> /dev/null; then
+            missing_deps+=($cmd)
+        fi
+    done
+    
+    if [ ${#missing_deps[@]} -ne 0 ]; then
+        print_status "error" "Missing required dependencies: ${missing_deps[*]}"
+        exit 1
     fi
 }
 
-# Check if main.md exists
-if [ ! -f main.md ]; then
-    print_status "error" "Error: main.md not found!"
-    exit 1
-fi
+# Check for required files
+check_required_files() {
+    local required_files=("main.md" "obsidian-embeds.lua" "style.tex" "bibliography.bib")
+    local missing_files=()
+    
+    for file in "${required_files[@]}"; do
+        if [ ! -f "$file" ]; then
+            missing_files+=($file)
+        fi
+    done
+    
+    if [ ${#missing_files[@]} -ne 0 ]; then
+        print_status "error" "Missing required files: ${missing_files[*]}"
+        exit 1
+    fi
+}
 
-# Check if obsidian-embeds.lua exists
-if [ ! -f obsidian-embeds.lua ]; then
-    print_status "error" "Error: obsidian-embeds.lua not found!"
-    exit 1
-fi
+# Clean temporary files
+clean_temp_files() {
+    local temp_extensions=("aux" "log" "out" "toc" "bbl" "bcf" "blg" "run.xml")
+    for ext in "${temp_extensions[@]}"; do
+        rm -f output/*.$ext
+    done
+}
 
-# Create output directory if it doesn't exist
-mkdir -p output
+# Backup function
+create_backup() {
+    if [ -f output/dissertation.pdf ]; then
+        local timestamp=$(date +"%Y%m%d_%H%M%S")
+        mv output/dissertation.pdf "output/dissertation_backup_${timestamp}.pdf"
+        print_status "success" "Created backup of previous PDF"
+    fi
+}
 
-# Get current timestamp for backup
-timestamp=$(date +"%Y%m%d_%H%M%S")
+# Main compilation function
+compile_dissertation() {
+    print_status "success" "Starting compilation..."
+    
+    # First pass with pandoc
+    pandoc main.md \
+        --lua-filter=obsidian-embeds.lua \
+        --pdf-engine=xelatex \
+        --include-in-header=style.tex \
+        --citeproc \
+        -o output/dissertation.pdf
+    
+    local exit_code=$?
+    
+    if [ $exit_code -eq 0 ]; then
+        print_status "success" "✓ Compilation successful! PDF created at output/dissertation.pdf"
+        clean_temp_files
+    else
+        print_status "error" "✗ Compilation failed! Check the error messages above"
+        exit 1
+    fi
+}
 
-# Backup previous PDF if it exists
-if [ -f output/dissertation.pdf ]; then
-    mv output/dissertation.pdf "output/dissertation_backup_${timestamp}.pdf"
-    print_status "success" "Created backup of previous PDF"
-fi
+# Main execution
+main() {
+    # Create output directory
+    mkdir -p output
+    
+    # Run checks
+    check_dependencies
+    check_required_files
+    
+    # Create backup
+    create_backup
+    
+    # Compile
+    compile_dissertation
+}
 
-print_status "success" "Starting compilation..."
-
-# Run pandoc with all necessary options
-pandoc main.md \
-    --lua-filter=obsidian-embeds.lua \
-    --pdf-engine=xelatex \
-    --top-level-division=chapter \
-    -o output/dissertation.pdf
-
-# Check if compilation was successful
-if [ $? -eq 0 ]; then
-    print_status "success" "✓ Compilation successful! PDF created at output/dissertation.pdf"
-else
-    print_status "error" "✗ Compilation failed! Check the error messages above"
-    exit 1
-fi
-
-
+# Execute main function
+main

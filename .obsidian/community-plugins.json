@@ -1,4 +1,7 @@
 [
   "obsidian-pandoc",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-footnotes",
+  "obsidian-tidy-footnotes",
+  "obsidian-citation-plugin"
 ]

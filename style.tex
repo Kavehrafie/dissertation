@@ -4,5 +4,22 @@
 \usepackage[section]{placeins}
 \usepackage{float}
 \usepackage{graphicx}
-\counterwithout{footnote}{chapter}
-\counterwithin{figure}{chapter}
+\usepackage{epigraph}
+\usepackage{etoolbox}
+\usepackage{quotchap}
+\usepackage{titlesec}
+
+
+% \counterwithout{footnote}{chapter}
+% \counterwithin{figure}{chapter}
+
+% Configure epigraph style
+\setlength{\epigraphwidth}{.7\textwidth}
+\setlength{\epigraphrule}{0pt}
+\renewcommand{\epigraphsize}{\small}
+\renewcommand{\sourceflush}{flushright}
+
+% section size
+\titleformat{\section}{\large}{\thesection}{1em}{}
+
+
