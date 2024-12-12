@@ -3,5 +3,11 @@
   "obsidian-git",
   "obsidian-footnotes",
   "obsidian-tidy-footnotes",
-  "obsidian-citation-plugin"
+  "obsidian-citation-plugin",
+  "obsidian-smart-typography",
+  "make-md",
+  "obsidian-outliner",
+  "obsidian-relative-line-numbers",
+  "obsidian-paste-image-rename",
+  "text-snippets-obsidian"
 ]

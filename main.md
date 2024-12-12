@@ -1,6 +1,6 @@
 ---
-title: Your Dissertation Title
-author: Your Name
+title: "Pleated Modernity: On Anthropologization of Modern Art in Iran, 1941--1979"
+author: Kaveh Rafie
 date: "2024"
 documentclass: report
 fontsize: 12pt
@@ -17,24 +17,10 @@ geometry:
   - textwidth=6.50in
 bibliography: bibliography.bib
 csl: chicago-note-bibliography.csl
-header-includes: |
-    % Store the original chapter format
-    \let\originalchapterformat\chapter
-    
-    % Define special chapter format
-    \newcommand{\specialchapterformat}{%
-        \titleformat{\chapter}[display]
-            {\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Large}
-        \titlespacing{\chapter}{0pt}{160pt}{40pt}
-    }
-    
-    % Command to restore original format
-    \newcommand{\restorechapterformat}{%
-        \titleformat{\chapter}[display]
-            {\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
-        \titlespacing{\chapter}{0pt}{50pt}{40pt}
-    }
 ---
+
+
+\hypersetup{pageanchor=false}
 
 \pagenumbering{roman} 
 \tableofcontents 
@@ -43,27 +29,45 @@ header-includes: |
 
 \pagenumbering{arabic}
 
-\begin{savequote}[12cm]
----When shall we three meet again
-in thunder, lightning, or in rain?
----When the hurlyburly’s done,
-when the battle’s lost and won.
-\qauthor{Shakespeare, Macbeth}
-Cookies! Give me some cookies!
-\qauthor{Cookie Monster}
+
+\hypersetup{pageanchor=true}
+
+\begin{savequote}[15cm]
+  Bring new words!—for in newness is another sweetness told.
+  \qauthor{\smaller[1]—Jalil Ziapour and his colleagues’ motto, derived from a poem by the eleventh century poet Farrukhi Sistani}
+  The tradition of all the dead generations weighs like a nightmare on the brain of the living.
+  \qauthor{\smaller[1]—Karl Marx}
+  High Art is for all people, but Low Art is only liked by laymen.
+  \qauthor{\smaller[1]—Ziapour} 
+  All history is the preparation for ‘man’ to become the object of sensuous consciousness, and for the needs of ‘man as man’ to become [natural, sensuous] needs. History itself is a real part of natural history—of nature’s coming to be man
+  \qauthor{\smaller[1]—Marx}
 \end{savequote}
 
+
+
 \specialchapterformat
-\chapter{1. The Social Life of Rabbits}
+\chapter{1. Introduction: The Rooster Crows}
 \setcounter{chapter}{1}
-![[chapters/chapter1]]
+![[chapters/chapter-1-intro]]
 
 \restorechapterformat
+
 \setcounter{chapter}{2}
+\chapter{2. Ziapour at Cubism’s Edge}\label{chap:2}
+
 ![[chapters/chapter2]]
+
+\setcounter{chapter}{3}
+\chapter{3. Parviz Tanavoli}\label{chap:3}
+![[chapters/chapter3]]
+
+\setcounter{chapter}{4}
+\chapter{4. Monir Shahroudy Farmanfarmaian}\label{chap:4}
+![[chapters/chapter4]]
 
 ![[chapters/Images]]
 
 \singlespacing
 
 \chapter*{Bibliography}
+
