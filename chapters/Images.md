@@ -7,3 +7,17 @@
 ![Adbolhassan Sadeghi, A Village near Florence, 1930, oil on canvas, 35 x 45 cm. (13.8 x 17.7 in.)](Pastedimage20241210234026.png){#fig:seddighi-florence}
 
 ![Abolhassan Seddighi](Pastedimage20241210234136.png){#fig:seddighi-3portraits}
+
+
+![Hossein Kazemi, A Portrait of Sadegh Hedayat, 1946](hkazemi-hedayat.png){#fig:hkazemi-hedayat}
+
+\setcounter{chapter}{2} 
+\setcounter{figure}{0}
+
+![Jalil Ziapur, The Uprising of Kaveh, c. 1945, oil on canvas. Courtesy of Mahsha Ziapour. ](ziapour-kaveh.png){#fig:ziapour-kaveh}
+
+
+\setcounter{chapter}{3} 
+\setcounter{figure}{0}
+
+![[tanavoli-wall-p2.png]]

@@ -46,7 +46,8 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//references"
+    "//chapters",
+    "//figures"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
