@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapters/Images.md",
+                "file": "main.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Images"
+              "title": "main"
             }
           },
           {
-            "id": "ac1a8dfc153ace7b",
+            "id": "ec937d74584ba20a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapters/Images.md",
+                "file": "chapters/chapter1/ch1genesis.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Images"
+              "title": "ch1genesis"
             }
           }
         ]
@@ -97,8 +97,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,32 +189,42 @@
   },
   "active": "f610b777c216fcb6",
   "lastOpenFiles": [
-    "figures/tanavoli-wall-p2.png",
-    "chapters/chapter-1-intro.md",
-    "output/dissertation.pdf",
-    "output/dissertation_backup_20241212_231506.pdf",
-    "output/dissertation_backup_20241212_231321.pdf",
-    "output/dissertation_backup_20241212_204931.pdf",
-    "output/dissertation_backup_20241212_204304.pdf",
+    "chapters/chapter1.md",
+    "chapters/chapter1/ch1context.md",
     "chapters/Images.md",
-    "output/dissertation_backup_20241212_170142.pdf",
-    "output/dissertation_backup_20241212_170047.pdf",
-    "output/dissertation_backup_20241212_170005.pdf",
-    "output/dissertation_backup_20241212_165914.pdf",
+    "output/dissertation.pdf",
+    "chapters/chapter1/ch1method.md",
+    "chapters/chapter1/ch1anthropo.md",
+    "chapters/chapter1/ch1genesis.md",
+    "chapters/chapter1/ch1intro.md",
+    "output/dissertation_backup_20241213_225637.pdf",
+    "main.md",
+    "output/dissertation_backup_20241213_225435.pdf",
+    "output/dissertation_backup_20241213_225414.pdf",
+    "output/dissertation_backup_20241213_225255.pdf",
+    "output/dissertation_backup_20241213_225214.pdf",
+    "output/dissertation_backup_20241213_225112.pdf",
+    "output/dissertation_backup_20241213_225039.pdf",
+    "output/dissertation_backup_20241213_224947.pdf",
+    "chapter-1.md",
+    "chapters/chapter2.md",
+    "chapters/chapter4.md",
+    "chapters/chapter3.md",
+    "chapters/chapter-1.md",
+    "output/dissertation_backup_20241213_224803.pdf",
+    "chapters/ch2.md",
+    "chapters/chapter1/section1.md",
+    "chapters/ch1-sec1.md",
+    "references/references.md",
+    "figures/tanavoli-wall-p2.png",
     "figures/ziapour-kaveh.png",
-    "output/dissertation_backup_20241212_165119.pdf",
     "figures/hkazemi-hedayat.png",
     "figures/hkazemi-hedayat.png",
     "figures/shokuh-riazi-a-portrait.png",
-    "references/references.md",
     "references/translations.md",
-    "main.md",
-    "chapters/chapter2.md",
     "chapters/_.md",
     "chapters/coda.md",
     "chapters/Pasted.md",
-    "chapters/chapter4.md",
-    "chapters/chapter3.md",
     "chapters/o.md",
     "figures/Pastedimage20241210234136.png",
     "figures/Pastedimage20241210234026.png",

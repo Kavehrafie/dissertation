@@ -46,26 +46,26 @@ csl: chicago-note-bibliography.csl
 
 
 \specialchapterformat
-\chapter{1. Introduction: The Rooster Crows}
-\setcounter{chapter}{1}
-![[chapters/chapter-1-intro]]
+
+
+![[chapter1]]
 
 \restorechapterformat
 
 \setcounter{chapter}{2}
-\chapter{2. Ziapour at Cubism’s Edge}\label{chap:2}
+\chapter{Ziapour at Cubism’s Edge}\label{chap:2}
 
-![[chapters/chapter2]]
+![[chapter2]]
 
 \setcounter{chapter}{3}
-\chapter{3. Parviz Tanavoli}\label{chap:3}
-![[chapters/chapter3]]
+\chapter{Parviz Tanavoli}\label{chap:3}
+![[chapter3]]
 
 \setcounter{chapter}{4}
-\chapter{4. Monir Shahroudy Farmanfarmaian}\label{chap:4}
-![[chapters/chapter4]]
+\chapter{Monir Shahroudy Farmanfarmaian}\label{chap:4}
+![[chapter4]]
 
-![[chapters/Images]]
+![[Images]]
 
 \singlespacing
 

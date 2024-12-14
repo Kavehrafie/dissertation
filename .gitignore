@@ -1,2 +1,12 @@
 /.idea
 /output
+/figures
+
+*.log
+*.pdf
+
+*.mdc
+
+.makemd/fileCache.mdc
+.makemd/superstate.mdc
+

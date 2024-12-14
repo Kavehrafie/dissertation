@@ -70,9 +70,10 @@ compile_dissertation() {
     
     # First pass with pandoc
     pandoc main.md \
-        --lua-filter=obsidian-embeds.lua \
+        --lua-filter=obsidian-embeds-exp.lua \
         --pdf-engine=xelatex \
         --include-in-header=style.tex \
+        --number-sections \
         --citeproc \
         -o output/dissertation.pdf
     

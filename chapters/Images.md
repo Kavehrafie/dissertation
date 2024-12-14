@@ -20,4 +20,4 @@
 \setcounter{chapter}{3} 
 \setcounter{figure}{0}
 
-![[tanavoli-wall-p2.png]]
+![Parviz Tanavoli, *Oh Persepolis II*,  1975-2008, bronze, $186\times128\times25$ cm](tanavoli-wall-p2.png){#fig:tanavoli-wall2}
