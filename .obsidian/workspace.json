@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f610b777c216fcb6",
+            "id": "ec937d74584ba20a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "ch1anthropo"
-            }
-          },
-          {
-            "id": "ec937d74584ba20a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chapters/chapter1/ch1genesis.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "ch1genesis"
             }
           }
         ]
@@ -66,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "aryanpourRecordIranianSociety2020",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +83,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,27 +174,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f610b777c216fcb6",
+  "active": "ec937d74584ba20a",
   "lastOpenFiles": [
-    "output/dissertation.pdf",
-    "output/dissertation_backup_20241213_235159.pdf",
-    "chapters/chapter1/ch1genesis.md",
-    "output/dissertation_backup_20241213_231529.pdf",
-    "main.md",
     "chapters/chapter1.md",
-    "chapters/chapter1/ch1context.md",
     "chapters/Images.md",
-    "chapters/chapter1/ch1method.md",
+    "chapters/chapter1/ch1genesis.md",
+    "output/dissertation.pdf",
+    "output/dissertation_backup_20241214_132607.pdf",
+    "chapters/chapter1/aryanpourRecordIranianSociety2020.md",
     "chapters/chapter1/ch1anthropo.md",
+    "output/dissertation_backup_20241214_132326.pdf",
+    "figures/Pasted image 20241214132102.png",
+    "output/dissertation_backup_20241214_120538.pdf",
+    "output/dissertation_backup_20241214_113626.pdf",
+    "output/dissertation_backup_20241214_112448.pdf",
+    "main.md",
+    "output/dissertation_backup_20241214_105026.pdf",
+    "output/dissertation_backup_20241214_104958.pdf",
+    "chapters/chapter1/ch1method.md",
+    "output/dissertation_backup_20241214_102039.pdf",
+    "output/dissertation_backup_20241214_102012.pdf",
+    "chapters/chapter1/ch1context.md",
     "chapters/chapter1/ch1intro.md",
-    "output/dissertation_backup_20241213_225637.pdf",
-    "output/dissertation_backup_20241213_225435.pdf",
-    "output/dissertation_backup_20241213_225414.pdf",
-    "output/dissertation_backup_20241213_225255.pdf",
-    "output/dissertation_backup_20241213_225214.pdf",
-    "output/dissertation_backup_20241213_225112.pdf",
-    "output/dissertation_backup_20241213_225039.pdf",
-    "output/dissertation_backup_20241213_224947.pdf",
     "chapter-1.md",
     "chapters/chapter2.md",
     "chapters/chapter4.md",
@@ -232,7 +220,6 @@
     "images/Pasted image 20241210234136.png",
     "images/Pasted image 20241210234026.png",
     "Untitled.canvas",
-    "figures/ziapour-khorus-jangi.png",
     "Untitled.md",
     "Welcome.md"
   ]

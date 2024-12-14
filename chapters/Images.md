@@ -11,6 +11,8 @@
 
 ![Hossein Kazemi, A Portrait of Sadegh Hedayat, 1946](hkazemi-hedayat.png){#fig:hkazemi-hedayat}
 
+![Mohasses with Daneshvar and Al-e Ahmad](Pasted image 20241214132102.png){#fig:bahman-jalal-simin}
+
 \setcounter{chapter}{2} 
 \setcounter{figure}{0}
 
@@ -21,3 +23,4 @@
 \setcounter{figure}{0}
 
 ![Parviz Tanavoli, *Oh Persepolis II*,  1975-2008, bronze, $186\times128\times25$ cm](tanavoli-wall-p2.png){#fig:tanavoli-wall2}
+
