@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main.md",
+                "file": "chapters/chapter1/ch1anthropo.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "main"
+              "title": "ch1anthropo"
             }
           },
           {
@@ -189,16 +189,17 @@
   },
   "active": "f610b777c216fcb6",
   "lastOpenFiles": [
+    "chapters/chapter1/ch1genesis.md",
+    "output/dissertation.pdf",
+    "output/dissertation_backup_20241213_231529.pdf",
+    "main.md",
     "chapters/chapter1.md",
     "chapters/chapter1/ch1context.md",
     "chapters/Images.md",
-    "output/dissertation.pdf",
     "chapters/chapter1/ch1method.md",
     "chapters/chapter1/ch1anthropo.md",
-    "chapters/chapter1/ch1genesis.md",
     "chapters/chapter1/ch1intro.md",
     "output/dissertation_backup_20241213_225637.pdf",
-    "main.md",
     "output/dissertation_backup_20241213_225435.pdf",
     "output/dissertation_backup_20241213_225414.pdf",
     "output/dissertation_backup_20241213_225255.pdf",
@@ -211,7 +212,6 @@
     "chapters/chapter4.md",
     "chapters/chapter3.md",
     "chapters/chapter-1.md",
-    "output/dissertation_backup_20241213_224803.pdf",
     "chapters/ch2.md",
     "chapters/chapter1/section1.md",
     "chapters/ch1-sec1.md",
