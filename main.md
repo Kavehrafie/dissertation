@@ -47,18 +47,14 @@ csl: chicago-note-bibliography.csl
 
 \specialchapterformat
 
-
 ![[chapter1]]
 
 \restorechapterformat
 
-\setcounter{chapter}{2}
-\chapter{Ziapour at Cubism’s Edge}\label{chap:2}
 
 ![[chapter2]]
 
-\setcounter{chapter}{3}
-\chapter{Parviz Tanavoli}\label{chap:3}
+
 ![[chapter3]]
 
 \setcounter{chapter}{4}
