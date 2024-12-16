@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "chapters/chapter1/ch1method.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "ch1method"
@@ -83,7 +83,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,30 +176,32 @@
   },
   "active": "4697d2935b73e19e",
   "lastOpenFiles": [
-    "chapters/chapter3/intro.md",
     "chapters/chapter3.md",
-    "output/dissertation_backup_20241214_231240.pdf",
     "output/dissertation.pdf",
+    "output/dissertation_backup_20241215_222810.pdf",
+    "chapters/chapter3/intro.md",
+    "chapters/Images.md",
+    "figures/tanavoli-first-heech.png",
+    "figures/tanavoli-1955.png",
+    "chapters/chapter1/ch1method.md",
+    "main.md",
+    "output/dissertation_backup_20241215_200142.pdf",
+    "chapters/chapter1.md",
+    "chapters/chapter1/ch1anthropo.md",
+    "chapters/chapter1/aryanpourRecordIranianSociety2020.md",
+    "chapters/chapter1/ch1intro.md",
+    "config",
+    "output/dissertation_backup_20241214_231240.pdf",
     "output/dissertation_backup_20241214_231202.pdf",
     "chapters/chapter2.md",
-    "chapters/chapter1.md",
-    "main.md",
-    "chapters/chapter1/ch1method.md",
     "output/dissertation_backup_20241214_230631.pdf",
-    "chapters/chapter1/ch1anthropo.md",
     "output/dissertation_backup_20241214_230512.pdf",
     "output/dissertation_backup_20241214_230325.pdf",
     "output/dissertation_backup_20241214_230059.pdf",
-    "output/dissertation_backup_20241214_230029.pdf",
-    "output/dissertation_backup_20241214_230013.pdf",
-    "output/dissertation_backup_20241214_225928.pdf",
     "chapters/chapter4.md",
-    "chapters/Images.md",
     "chapters/chapter1/ch1genesis.md",
-    "chapters/chapter1/aryanpourRecordIranianSociety2020.md",
     "figures/Pasted image 20241214132102.png",
     "chapters/chapter1/ch1context.md",
-    "chapters/chapter1/ch1intro.md",
     "chapter-1.md",
     "chapters/chapter-1.md",
     "chapters/ch2.md",
@@ -217,8 +220,6 @@
     "chapters/o.md",
     "figures/Pastedimage20241210234136.png",
     "figures/Pastedimage20241210234026.png",
-    "images/Pasted image 20241210234136.png",
-    "images/Pasted image 20241210234026.png",
     "Untitled.canvas",
     "Untitled.md"
   ]

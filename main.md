@@ -61,7 +61,7 @@ csl: chicago-note-bibliography.csl
 \chapter{Monir Shahroudy Farmanfarmaian}\label{chap:4}
 ![[chapter4]]
 
-![[Images]]
+ ![[Images]] 
 
 \singlespacing
 

@@ -22,5 +22,11 @@
 \setcounter{chapter}{3} 
 \setcounter{figure}{0}
 
+![Parviz Tanavoli, untitled, around 1955, no dimensions, current whereabouts is unknown.](tanavoli-1955.png){#fig:tanavoli-1955}
+
+![Parviz Tanavoli, Heech, 1964, Plexiglas, wood, copper, plaster and oils, 82 x 80 cm, Manijheh collection.](tanavoli-first-heech.png){#fig:tanavoli-first-heech}
+
 ![Parviz Tanavoli, *Oh Persepolis II*,  1975-2008, bronze, $186\times128\times25$ cm](tanavoli-wall-p2.png){#fig:tanavoli-wall2}
 
+\setcounter{chapter}{4} 
+\setcounter{figure}{0}

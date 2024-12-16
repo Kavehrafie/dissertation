@@ -47,7 +47,10 @@
   "expandedSpaces": [
     "/",
     "//chapters",
-    "//references"
+    "//references",
+    "//chapters/chapters/chapter3",
+    "//chapters/chapters/chapter1",
+    "//chapters/chapters/chapter2"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
