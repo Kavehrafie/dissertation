@@ -1,5 +1,5 @@
 
-\section{General Introduction}
+\section{General Introduction}\label{chap:1}
 
 
 When readers’ gaze fell on the first issue of _Khorus Jangi_ (The Fighting Rooster) in 1949, they would be immediately arrested by the cover image (fig.\ref{fig:ziapour-khorus}) designed by Iranian modernist artist Jalil Ziapour (1920–1999). A lone, majestic rooster stood within a frame, devoid of any accompanying title or context, leaving the viewer in eager anticipation of what lies ahead. The rooster’s self-confident posture would strike the most—beak agape, chest thrust forward, one foot planted firmly behind, wings outstretched, while its angular lines and geometric composition convey that it belongs to an era of machines. Its posture, anchored by a sturdy triangular base, and its piercing gaze, locked on an invisible point beyond the frame, radiate a sense of unyielding alertness and resolve rather than impulsively charging forward. The rooster appears to be addressing an invisible audience beyond the frame as if heralding a pivotal moment in history. This visual rhetoric evokes the modernist imperative for collective action, urging the masses to seize agency in shaping their own destiny and, by extension, to inscribe themselves into the broader historical schema.

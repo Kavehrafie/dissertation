@@ -92,7 +92,7 @@ In \hyperref[chap:3]{Chapter 3}, I will further examine Al-e Ahmad’s ethnograp
 [^5]: @tanavoliTanavoliTanavoli2010[94]
 [^6]: @tanavoliTanavoliTanavoli2010[94]
 [^7]: See \hyperref[chap:3]{Chapter 3} on the return of the repressed.
-[^8]: @jamesonPostmodernismCulturalLogic2007
+[^8]: @jamesonPostmodernismCulturalLogic1991
 [^9]: #todo <!-- revise this : For Jameson see: ?? --->
 [^10]: @daftariSafarVoyageContemporary2014[2]
 [^11]: Belting cites the curator Claude Ardouin. @beltingContemporaryArtGlobal2009[13]
@@ -112,7 +112,7 @@ In \hyperref[chap:3]{Chapter 3}, I will further examine Al-e Ahmad’s ethnograp
 [^25]: @pickettSovietCivilizationPersian2015[812]
 [^26]: @dalwandLeftistDiscourseGoftemane2020
 [^27]: Nematollah Fazeli acknowledges Al-e Ahmad's distinctive position as an autodidactic ethnographer, noting that despite his lack of formal academic credentials in anthropology, his contributions to the field proved substantial. The designation of "self-taught anthropologist" underscores Al-e Ahmad's remarkable achievement in conducting ethnographic research without conventional institutional training.@fazeliPoliticsCultureIran2006[101]
-[^28]: For the role of Al-e Ahmad see @nahidiCulturalPoliticsArt2023[92-106]
+[^28]: For the role of Al-e Ahmad see @nahidiCulturalPoliticsArt2023[92-106] 
 [^29]: @al-eahmadOccidentosisPlagueWest1984[7] 
 [^30]: @al-eahmadOccidentosisPlagueWest1984[10] 
 [^31]: In *On the Service and Treason of the Intellectuals*, published posthumously, Al-e Ahmad cited from Fanon. See @WhoTranslatedFanons2020 

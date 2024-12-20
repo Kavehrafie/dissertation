@@ -1,0 +1,2 @@
+## keshmirshekan on the inconsistency of Ziapour's Cubism
+Reviewing Ziapour's experimentation with Cubism,  Hamid Keshmirshekan remarks on the artist work "as a form of inconsistency characterized by hesitation."@keshmirshekanContemporaryIranianArt2013[60]
