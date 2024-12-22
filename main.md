@@ -22,13 +22,11 @@ csl: chicago-note-bibliography.csl
 
 \hypersetup{pageanchor=false}
 
-\pagenumbering{roman} 
-\tableofcontents 
-\listoffigures 
-
+\pagenumbering{roman}
+\tableofcontents
+\listoffigures
 
 \pagenumbering{arabic}
-
 
 \hypersetup{pageanchor=true}
 
@@ -43,25 +41,20 @@ csl: chicago-note-bibliography.csl
   \qauthor{\smaller[1]—Marx}
 \end{savequote}
 
-
-
-\specialchapterformat
+<!-- \specialchapterformat
 
 ![[chapter1]]
 
-\restorechapterformat
+\restorechapterformat -->
 
-
-![[chapter2]]
-
+<!-- ![[chapter2]] -->
 
 ![[chapter3]]
 
 ![[chapter4]]
 
- ![[chapters/Images]] 
+![[chapters/Images]]
 
 \singlespacing
 
 \chapter*{Bibliography}
-

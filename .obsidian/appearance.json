@@ -1,1 +1,7 @@
-{}
+{
+  "enabledCssSnippets": [
+    "latex-styling"
+  ],
+  "cssTheme": "Minimal",
+  "accentColor": "#65b2e2"
+}

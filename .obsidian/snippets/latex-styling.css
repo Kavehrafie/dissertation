@@ -1,0 +1,8 @@
+.cm-math .cm-tex-command {
+    color: #ff6b6b;  /* Change to your preferred color */
+    font-weight: bold;
+}
+
+.cm-math .cm-tex-braces {
+    color: #4dabf7;  /* Different color for braces */
+}

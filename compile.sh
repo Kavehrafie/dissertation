@@ -3,7 +3,7 @@
 # Set colors for output
 GREEN='\033[0;32m'
 RED='\033[0;31m'
-YELLOW='\033[1;33m'
+BLUE='\033[0;34m'
 NC='\033[0m' # No Color
 
 # Print with color
@@ -11,7 +11,7 @@ print_status() {
     case $1 in
         "success") echo -e "${GREEN}$2${NC}" ;;
         "error") echo -e "${RED}$2${NC}" ;;
-        "warning") echo -e "${YELLOW}$2${NC}" ;;
+        "info") echo -e "${BLUE}$2${NC}" ;;
     esac
 }
 
@@ -24,51 +24,64 @@ check_dependencies() {
         fi
     done
     
+    # Check for ImageMagick
+    if command -v magick &> /dev/null; then
+        IMAGEMAGICK_CMD="magick"
+    elif command -v convert &> /dev/null; then
+        IMAGEMAGICK_CMD="convert"
+    else
+        missing_deps+=("ImageMagick")
+    fi
+    
     if [ ${#missing_deps[@]} -ne 0 ]; then
         print_status "error" "Missing required dependencies: ${missing_deps[*]}"
         exit 1
     fi
 }
 
-# Check for required files
-check_required_files() {
-    local required_files=("main.md" "obsidian-embeds.lua" "style.tex" "bibliography.bib")
-    local missing_files=()
+# Clean filename
+clean_filename() {
+    local filename="$1"
+    # Replace spaces and special characters with underscore
+    echo "$filename" | sed -e 's/[^A-Za-z0-9._-]/_/g'
+}
+
+# Optimize images
+optimize_images() {
+    mkdir -p optimized_images
     
-    for file in "${required_files[@]}"; do
-        if [ ! -f "$file" ]; then
-            missing_files+=($file)
+    # Find all images, excluding .trash directory
+    find . -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" \) \
+        -not -path "./optimized_images/*" \
+        -not -path "./.trash/*" \
+        -not -path "*/\.*" \
+        -print0 | while IFS= read -r -d '' img; do
+        
+        # Clean the filename
+        filename=$(clean_filename "$(basename "$img")")
+        dirname=$(dirname "$img")
+        # target_dir="optimized_images/${dirname#./}"
+        target_dir="optimized_images"
+        target_file="$target_dir/$filename"
+        
+        if [ ! -f "$target_file" ]; then
+            mkdir -p "$target_dir"
+            print_status "info" "Optimizing: $img -> $target_file"
+            $IMAGEMAGICK_CMD "$img" -resize "2000x2000>" -quality 85 -strip "$target_file"
+            
+            # Create symbolic link with original name if it was changed
+            if [ "$(basename "$img")" != "$filename" ]; then
+                ln -sf "$filename" "$target_dir/$(basename "$img")"
+            fi
         fi
     done
-    
-    if [ ${#missing_files[@]} -ne 0 ]; then
-        print_status "error" "Missing required files: ${missing_files[*]}"
-        exit 1
-    fi
 }
 
-# Clean temporary files
-clean_temp_files() {
-    local temp_extensions=("aux" "log" "out" "toc" "bbl" "bcf" "blg" "run.xml")
-    for ext in "${temp_extensions[@]}"; do
-        rm -f output/*.$ext
-    done
-}
 
-# Backup function
-create_backup() {
-    if [ -f output/dissertation.pdf ]; then
-        local timestamp=$(date +"%Y%m%d_%H%M%S")
-        mv output/dissertation.pdf "output/dissertation_backup_${timestamp}.pdf"
-        print_status "success" "Created backup of previous PDF"
-    fi
-}
-
-# Main compilation function
+# Compile dissertation
 compile_dissertation() {
-    print_status "success" "Starting compilation..."
+    print_status "info" "Compiling dissertation..."
     
-    # First pass with pandoc
     pandoc main.md \
         --lua-filter=obsidian-embeds.lua \
         --pdf-engine=xelatex \
@@ -77,32 +90,35 @@ compile_dissertation() {
         --citeproc \
         -o output/dissertation.pdf
     
-    local exit_code=$?
-    
-    if [ $exit_code -eq 0 ]; then
-        print_status "success" "✓ Compilation successful! PDF created at output/dissertation.pdf"
-        clean_temp_files
+    if [ $? -eq 0 ]; then
+        print_status "success" "Compilation successful! PDF created at output/dissertation.pdf"
+        # Clean temporary files
+        rm -f output/*.{aux,log,out,toc,bbl,bcf,blg,run.xml}
+        # Remove markdown backups
+        find . -name "*.md.bak" -delete
     else
-        print_status "error" "✗ Compilation failed! Check the error messages above"
+        print_status "error" "Compilation failed!"
+        # Restore markdown backups
+        find . -name "*.md.bak" -exec bash -c 'mv "$1" "${1%.bak}"' _ {} \;
         exit 1
     fi
 }
 
+# Restore markdown files from backup if script is interrupted
+cleanup() {
+    print_status "info" "Cleaning up..."
+    find . -name "*.md.bak" -exec bash -c 'mv "$1" "${1%.bak}"' _ {} \;
+}
+
+trap cleanup EXIT
+
 # Main execution
 main() {
-    # Create output directory
     mkdir -p output
-    
-    # Run checks
     check_dependencies
-    check_required_files
+    optimize_images
     
-    # Create backup
-    create_backup
-    
-    # Compile
     compile_dissertation
 }
 
-# Execute main function
 main

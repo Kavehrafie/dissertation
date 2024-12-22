@@ -27,6 +27,7 @@
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
+  "defaultTimeFormat": "h:mm a",
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
@@ -47,10 +48,8 @@
   "expandedSpaces": [
     "/",
     "//chapters",
-    "//references",
     "//chapters/chapters/chapter3",
-    "//chapters/chapters/chapter1",
-    "//chapters/chapters/chapter2"
+    "//figures"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

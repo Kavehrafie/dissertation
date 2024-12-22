@@ -1,6 +1,8 @@
-/.idea
-/output
-/figures
+.idea/
+output/
+figures/
+optimized_images/
+
 
 *.log
 *.pdf

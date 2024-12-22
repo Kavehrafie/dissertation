@@ -152,7 +152,7 @@ function processFileContent(content, filepath)
     
     -- Fix image paths
     content = content:gsub("!%[(.-)%]%(([^/]-%.%w+)%)", function(alt, img)
-        return string.format("![%s](figures/%s)", alt, img)
+        return string.format("![%s](optimized_images/%s)", alt, img)
     end)
     
     -- Process footnotes before handling embeds

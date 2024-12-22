@@ -1,6 +1,8 @@
 \chapter{Introduction: The Rooster Crows}
 \setcounter{chapter}{1}
 
+
+
 ![[ch1intro]]
 
 ![[ch1context]]
