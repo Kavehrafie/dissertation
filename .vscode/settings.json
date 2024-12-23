@@ -1,12 +1,6 @@
 {
   "editor.fontFamily": "'FiraCode Nerd Font Mono', 'monospace', monospace",
   "editor.fontSize": 16,
-  "latex-workshop.view.pdf.viewer": "tab",
-  "files.associations": {
-    "*.md": "markdown"
-},
-  "markdown.extension.bibliography.citationFormat": "pandoc",
-  "markdown.extension.bibliography.refLocation": "bibliography.bib",
   "[markdown_latex_combined]": {
     "editor.unicodeHighlight.ambiguousCharacters": false,
     "editor.unicodeHighlight.invisibleCharacters": false,
@@ -17,7 +11,6 @@
       "strings": "on",
       "comments": "on"
     },
-    "ltex.enabled": true,
     "editor.minimap.enabled": false
   }
 }
