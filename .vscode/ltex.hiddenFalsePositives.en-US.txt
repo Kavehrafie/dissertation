@@ -1,3 +1,2 @@
-{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThis conviction led them to invest in their sons’ education, Parviz (born March 24, 1937) and Jamshid, providing them with violin and painting lessons from an early age.\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\\setcounter{chapter}{3} \\setcounter{figure}{0}\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\\setcounter{chapter}{3} \\setcounter{figure}{0}\\E$"}

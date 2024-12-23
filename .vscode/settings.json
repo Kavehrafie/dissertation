@@ -6,11 +6,6 @@
     "editor.unicodeHighlight.invisibleCharacters": false,
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.wordWrap": "on",
-    "editor.quickSuggestions": {
-      "other": "on",
-      "strings": "on",
-      "comments": "on"
-    },
     "editor.minimap.enabled": false
   }
 }

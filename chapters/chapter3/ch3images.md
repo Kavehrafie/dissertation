@@ -17,8 +17,16 @@
 
 ![Manuchehr Sheybani, *Women from South (zanan-e jonub)*, 1957, a reproduction in the First Tehran Biennial (1958) catalog.](Picture1.png){#fig:sheybani-zanane-junubi}
 
+![Parviz Tanavoli, *Women in Public Bath* series, 1957, linocut, TMoCA.](women.png){t-1957women}
+
+![Parviz Tanavoli, *Mourning Procession*, c.1957, monotype.](procession.png){#fig:t-1957procession}
+
+![Parviz Tanavoli, *Mourning Call*, 1957.](tanavoli-akhund.png){#fig:t-1957call}
+
+![Parviz Tanavoli, *Maternal Love*, 1958, scrap metal.](tanavoli_ahu.png)
+
 ![Parviz Tanavoli, Heech, 1964, Plexiglas, wood, copper, plaster and oils, 82 x 80 cm, Manijheh collection.](tanavoli-first-heech.png){#fig:tanavoli-first-heech}
 
-![Parviz Tanavoli, *Oh Persepolis II*,  1975-2008, bronze, $186\times128\times25$ cm](tanavoli-wall-p2.png){#fig:tanavoli-wall2}
+![Parviz Tanavoli, *Oh Persepolis II*, 1975-2008, bronze, $186\times128\times25$ cm](tanavoli-wall-p2.png){#fig:tanavoli-wall2}
 
-![text](../../figures/a-lock-bearer.png)
+
