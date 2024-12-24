@@ -17,7 +17,7 @@
 
 ![Manuchehr Sheybani, *Women from South (zanan-e jonub)*, 1957, a reproduction in the First Tehran Biennial (1958) catalog.](Picture1.png){#fig:sheybani-zanane-junubi}
 
-![Parviz Tanavoli, *Women in Public Bath* series, 1957, linocut, TMoCA.](women.png){t-1957women}
+![Parviz Tanavoli, *Women in Public Bath* series, 1957, linocut, TMoCA.](women.png){#fig:t-1957women}
 
 ![Parviz Tanavoli, *Mourning Procession*, c.1957, monotype.](procession.png){#fig:t-1957procession}
 
