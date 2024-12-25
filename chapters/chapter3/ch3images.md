@@ -23,7 +23,15 @@
 
 ![Parviz Tanavoli, *Mourning Call*, 1957.](tanavoli-akhund.png){#fig:t-1957call}
 
-![Parviz Tanavoli, *Maternal Love*, 1958, scrap metal.](tanavoli_ahu.png)
+![Parviz Tanavoli, *Maternal Love*, 1958, scrap metal.](tanavoli_ahu.png){#fig:t-maternal-love}
+
+![Marino Marini, The Angle of the City, 1948, cast 1950 (?), Bronze, $65 15/16 \times 41 3/4 inches (167.5 \times 106 cm)$, The Solomon R. Guggenheim Foundation Peggy Guggenheim Collection, Venice, 1976](marini-eq.png){#fig:marini-eq}
+
+![Marino Marini, *Miracolo*, 1959/60, the Neue Pinakothek in Munich](Marino_Marini_Miracolo_1959-60-1.jpg){#fig:marini-mir}
+
+![Parviz Tanavoli, *Prophet*, 1962, bronze, $97 \times 40 \times 20 cm$, Walker Art Center, Minneapolis](prophet.jpg){#fig:t-prophet62}
+
+![Parviz Tanavoli. *Poet*, 1961, copper.](Pasted image 20230714145909.png){#fig:t-poet61}
 
 ![Parviz Tanavoli, Heech, 1964, Plexiglas, wood, copper, plaster and oils, 82 x 80 cm, Manijheh collection.](tanavoli-first-heech.png){#fig:tanavoli-first-heech}
 
