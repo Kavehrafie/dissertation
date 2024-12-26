@@ -48,8 +48,7 @@
   "expandedSpaces": [
     "/",
     "//chapters",
-    "//chapters/chapters/chapter3",
-    "//figures"
+    "//chapters/chapters/chapter3"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

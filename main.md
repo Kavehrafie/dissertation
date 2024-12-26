@@ -41,13 +41,13 @@ csl: chicago-note-bibliography.csl
   \qauthor{\smaller[1]—Marx}
 \end{savequote}
 
-<!-- \specialchapterformat
+\specialchapterformat
 
 ![[chapter1]]
 
-\restorechapterformat -->
+\restorechapterformat
 
-<!-- ![[chapter2]] -->
+![[chapter2]]  
 
 ![[chapter3]]
 
