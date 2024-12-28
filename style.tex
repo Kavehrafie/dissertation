@@ -3,6 +3,8 @@
 \usepackage{caption}
 \usepackage[section]{placeins}
 \usepackage{float}
+\usepackage{subcaption}
+% \usepackage{subfigure}
 \usepackage{graphicx}
 \usepackage{epigraph}
 \usepackage{etoolbox}
@@ -11,9 +13,13 @@
 \usepackage{relsize}
 \usepackage{hyperref}
 \usepackage{bookmark}
+\usepackage{chngcntr}
 % \usepackage{fancyhdr}
 
-\usepackage{chngcntr}
+% Smart quotes and punctuation
+\usepackage[autostyle]{csquotes}
+\MakeOuterQuote{"}
+
 \counterwithout{footnote}{chapter}
 
 % \counterwithout{footnote}{chapter}
@@ -83,6 +89,10 @@
 % \renewcommand{\headrulewidth}{0.4pt}
 % \renewcommand{\footrulewidth}{0pt}
 
-% Smart quotes and punctuation
-\usepackage[autostyle]{csquotes}
-\MakeOuterQuote{"}
+% Set default maximum dimensions for all figures
+\setkeys{Gin}{width=0.8\textwidth,height=0.8\textheight,keepaspectratio}
+
+% Center figures by default
+\makeatletter
+\g@addto@macro\@floatboxreset{\centering}
+\makeatother

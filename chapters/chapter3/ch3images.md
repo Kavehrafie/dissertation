@@ -31,7 +31,30 @@
 
 ![Parviz Tanavoli, *Prophet*, 1962, bronze, $97 \times 40 \times 20 cm$, Walker Art Center, Minneapolis](prophet.jpg){#fig:t-prophet62}
 
-![Parviz Tanavoli. *Poet*, 1961, copper.](Pasted image 20230714145909.png){#fig:t-poet61}
+![Parviz Tanavoli. *Poet*, 1961, copper.](20230714145909.png){#fig:t-poet61}
+
+![Parviz Tanavoli, *Lovers*, 1958, glazed earthenware, ceramic, Sa'd-Abad Palace Museum, Tehran.](20230721130127.png){#fig:t-lovers58}
+
+![Unknown artist, King Menkaura (Mycerinus) and queen, Egyptian, Old Kingdom, Dynasty 4, reign of Menkaura, 2490–2472 BCE, Boston Museum of Fine Arts Expedition.](SC227869_1680_0.jpg){#fig:menkaura}
+
+![Max Ernst, *Capricom*, 1948/63, $200 \times 238 \time 203$, bronze, TMoCA.](66_6ec6a809456009f1a58a430b3682adfd_1540210856-1.jpg){#fig:ernst-capri}
+
+![Parviz Tanavoli, *Darius Chariot*, 1957, Scrap metal, 40 x 38 x 11 cm (ca.), Private collection, Italy.](2-025.jpg){#fig:t-dariush}
+
+![Two Animals on Wheels with a Chariot Driver, 1100-900 BCE.,Ceramic, $22 \times 25.6 times 18 cm$, Tehran National Museum](20230709100640.png){#fig:chariot}
+
+![Lock No. 388, steel Chal Shotor with helicalspring mechanism, 19th century. $29 cm. \times 25.5 cm$. from Tanavoli’s lock p.136](lock.png){#fig:lock}
+
+![Parviz Tanavoli. *Poet*, 1961, copper, $190 \times 92 \times 92 cm$, collection Parviz Tanavoli Museum, Tehran.](20230712195811.png){#fig:t-poet61b}
+
+![Religious color prints, mid 20th century, offset printing.](20230721124432.png){#fig:rel-print}
+
+![Religious color prints, mid 20th century, offset printing.](20230721124656.png){#fig:rel-print2}
+
+
+![Details *Heech*, 1964](tanavoli-heech-hands.png){#fig:t-heech64-detail}
+
+![Details *Heech*, 1964](tanavoli-heech-neon.png){#fig:t-heech64-detail2}
 
 ![Parviz Tanavoli, Heech, 1964, Plexiglas, wood, copper, plaster and oils, 82 x 80 cm, Manijheh collection.](tanavoli-first-heech.png){#fig:tanavoli-first-heech}
 

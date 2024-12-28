@@ -1,4 +1,0 @@
-Host github.com-kr
-     HostName github.com
-     User git
-     IdentityFile ~/.ssh/kr_github
