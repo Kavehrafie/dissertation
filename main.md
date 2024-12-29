@@ -15,8 +15,8 @@ geometry:
   - right=1.25in
   - width=6.5in
   - textwidth=6.50in
-bibliography: bibliography.bib
-csl: chicago-note-bibliography.csl
+bibliography: references/bibliography.bib
+csl: references/chicago-note-bibliography.csl
 ---
 
 

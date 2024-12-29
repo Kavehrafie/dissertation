@@ -1,2 +1,0 @@
-## no support
-Despite Tanavoli’s several attempts and the good relations with Pahlbod, he received almost no support from the government. Fock believes that the overall tendency of the Shah was more concentrated on skills but not art was the result of this failure. See Fock, 43. As Tanavoli explains himself this was because his own initiative and Dr.Mehran’s (?) support that sculpture was opened. He first with personal funding.

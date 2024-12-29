@@ -51,6 +51,7 @@
 
 ![Religious color prints, mid 20th century, offset printing.](20230721124656.png){#fig:rel-print2}
 
+![saqqakhaneh](saqqakhaneh.png){#fig:saqqakhaneh}
 
 ![Details *Heech*, 1964](tanavoli-heech-hands.png){#fig:t-heech64-detail}
 
