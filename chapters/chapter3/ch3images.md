@@ -51,7 +51,22 @@
 
 ![Religious color prints, mid 20th century, offset printing.](20230721124656.png){#fig:rel-print2}
 
+![Parviz Tanavoli, *Poet in Love with Bird*, 1961, Medium Bronze on wood base, $15 \times 5 3/4 \times 3 in$. Grey Art Gallery, New York University Art Collection](125_17g1975.42-tanavoli,-parviz.jpg){#fig:t-bird61}
+
+![arviz Tanavoli, Prophet, 1961, approximately 100cm height, Museum Niavaran Palace Complex, Tehran](20230712202448.png){#fig:t-prophet61}
+
 ![saqqakhaneh](saqqakhaneh.png){#fig:saqqakhaneh}
+
+![#TODO needs caption](20230416181336.png){#fig:lockmkr}
+
+![Lock wearers on the morning of *Āshurā*, the tenth day of the month of *Moharram* in the Islamic year. Photograph by courtesy of the Ministry of Culture and Art, Tehran. Tanavoli, *Locks from Iran* p.27.](image.jpg){#fig:lockwrs}
+
+![Detail of a late 19th century painting depicting a lock wearer; over the entrance to the Ganj Ali Khan bath in Kerman. Tanavoli, *Locks from Iran* p.27.](a-lock-bearer.png){#fig:lockbr}
+
+
+![Stills from the BBC documentary on Parviz Tanavoli.](stillsBBC.png){#fig:bbc}
+
+![Parviz Tanavoli, Poet with Locks, 1972, Bronze. $280 \times 240 \times 105 cm (110 \times 94 \times 41 ")$, City Theater, Tehran](20230416203536.png){#fig:t-poet-w-lock}
 
 ![Details *Heech*, 1964](tanavoli-heech-hands.png){#fig:t-heech64-detail}
 

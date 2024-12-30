@@ -2,5 +2,17 @@
   "promptDelete": false,
   "newFileLocation": "current",
   "attachmentFolderPath": "figures",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "Armajani",
+    "Siah"
+  ],
+  "vimMode": true,
+  "showLineNumber": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  }
 }

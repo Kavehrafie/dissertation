@@ -1,4 +1,4 @@
-\section{The Genesis of New Art in Iran }
+## The Genesis of New Art in Iran
 
 
 The interregnum period (between Reza Shah's abdication in 1941 and the MI6/CIA-orchestrated coup in 1953) should be considered crucial in the formation of modernism, with its first public manifestation in 1946. Yet, this is in no way to say that modernist expressions were unprecedented before 1941; rather, it is to emphasize concerted efforts made during this period against the backdrop of the power and structural shifts.[^1]  In this respect, for example, Iranian critic and writer Javad Mojabi argues that Abolhassan Seddighi might be considered among the early modernist painters in Iran.[^2]

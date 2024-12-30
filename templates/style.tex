@@ -1,0 +1,98 @@
+\usepackage{footmisc}
+\usepackage{chngcntr}
+\usepackage{caption}
+\usepackage[section]{placeins}
+\usepackage{float}
+\usepackage{subcaption}
+% \usepackage{subfigure}
+\usepackage{graphicx}
+\usepackage{epigraph}
+\usepackage{etoolbox}
+\usepackage{quotchap}
+\usepackage{titlesec}
+\usepackage{relsize}
+\usepackage{hyperref}
+\usepackage{bookmark}
+\usepackage{chngcntr}
+% \usepackage{fancyhdr}
+
+% Smart quotes and punctuation
+\usepackage[autostyle]{csquotes}
+\MakeOuterQuote{"}
+
+\counterwithout{footnote}{chapter}
+
+% \counterwithout{footnote}{chapter}
+% \counterwithin{figure}{chapter}
+
+% Configure epigraph style
+
+% Adjust the quote width
+\setlength{\epigraphwidth}{.9\textwidth}
+
+% Remove the rule (line)
+\setlength{\epigraphrule}{0pt}
+
+% Set the size
+\renewcommand{\epigraphsize}{\small}
+
+% Adjust the source (attribution) alignment
+\renewcommand{\textflush}{flushright}
+\renewcommand{\epigraphflush}{flushleft}
+
+% Here's the key change - adjust the savequote positioning
+% \makeatletter
+% \renewcommand{\@epitext}[1]{%
+% \begin{minipage}{\epigraphwidth}\begin{flushright}#1\end{flushright}\end{minipage}}
+% \makeatother
+
+% section size
+\titleformat{\section}{\centering\normalsize}{\thesection}{1em}{}
+
+
+% Store the original chapter format
+\let\originalchapterformat\chapter
+
+% Define special chapter format
+\newcommand{\specialchapterformat}{%
+    \titleformat{\chapter}[display]
+        {\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Large}
+    \titlespacing{\chapter}{0pt}{340pt}{40pt}
+}
+
+% Command to restore original format
+\newcommand{\restorechapterformat}{%
+    \titleformat{\chapter}[display]
+        {\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Large}
+    \titlespacing{\chapter}{0pt}{50pt}{40pt}
+}
+
+% Hyperref settings
+\hypersetup{
+    colorlinks=false,
+    pdftitle={Your Dissertation Title},
+    pdfauthor={Your Name},
+    pdfsubject={Dissertation},
+    pdfkeywords={keyword1, keyword2},
+    bookmarksnumbered=true,
+    bookmarksopen=true,
+    bookmarksopenlevel=2,
+    pdfstartview={FitH}
+}
+
+% Header and footer settings
+% \pagestyle{fancy}
+% \fancyhf{}
+% \fancyhead[LE,RO]{\thepage}
+% \fancyhead[RE]{\leftmark}
+% \fancyhead[LO]{\rightmark}
+% \renewcommand{\headrulewidth}{0.4pt}
+% \renewcommand{\footrulewidth}{0pt}
+
+% Set default maximum dimensions for all figures
+\setkeys{Gin}{width=0.8\textwidth,height=0.8\textheight,keepaspectratio}
+
+% Center figures by default
+\makeatletter
+\g@addto@macro\@floatboxreset{\centering}
+\makeatother

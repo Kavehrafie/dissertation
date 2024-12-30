@@ -8,4 +8,4 @@
 
 ![Hossein Kazemi, A Portrait of Sadegh Hedayat, 1946](hkazemi-hedayat.png){#fig:hkazemi-hedayat}
 
-![Mohasses with Daneshvar and Al-e Ahmad](Pasted image 20241214132102.png){#fig:bahman-jalal-simin}
+![Mohasses with Daneshvar and Al-e Ahmad](20241214132102.png){#fig:bahman-jalal-simin}

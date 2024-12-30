@@ -3,5 +3,8 @@
     "latex-styling"
   ],
   "cssTheme": "Minimal",
-  "accentColor": "#65b2e2"
+  "accentColor": "#65b2e2",
+  "baseFontSize": 18,
+  "monospaceFontFamily": "Hasklug Nerd Font Mono",
+  "textFontFamily": "Noto Sans"
 }

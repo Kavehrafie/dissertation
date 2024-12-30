@@ -3,9 +3,9 @@ PANDOC = pandoc
 MAIN = main.md
 OUTPUT_DIR = output
 PDF_OUTPUT = $(OUTPUT_DIR)/dissertation.pdf
-LATEX_TEMPLATE = references/style.tex
-BIB_FILE = references/bibliography.bib
-CSL_FILE = references/chicago-note-bibliography.csl
+LATEX_TEMPLATE = templates/style.tex
+BIB_FILE = bibliography.bib
+CSL_FILE = templates/chicago-note-bibliography.csl
 
 # Filter paths
 OBSIDIAN_FILTER = obsidian-embeds.lua
@@ -23,11 +23,8 @@ $(PDF_OUTPUT): $(MAIN) $(OUTPUT_DIR) $(BIB_FILE) $(CSL_FILE)
 		--number-sections \
 		--top-level-division=chapter \
 		--citeproc \
-		--bibliography=$(BIB_FILE) \
-		--csl=$(CSL_FILE) \
 		--pdf-engine=xelatex \
 		--include-in-header=$(LATEX_TEMPLATE) \
-		-t latex \
 		-o $(PDF_OUTPUT)
 
 # Default target

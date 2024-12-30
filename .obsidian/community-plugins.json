@@ -1,14 +1,15 @@
 [
-  "obsidian-pandoc",
   "obsidian-git",
   "obsidian-footnotes",
   "obsidian-tidy-footnotes",
   "obsidian-citation-plugin",
-  "make-md",
   "obsidian-outliner",
   "obsidian-relative-line-numbers",
   "text-snippets-obsidian",
   "obsidian-completr",
   "obsidian-paste-image-rename",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "obsidian-enhancing-export",
+  "obsidian-vimrc-support",
+  "vim-yank-highlight"
 ]
