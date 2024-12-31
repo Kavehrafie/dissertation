@@ -70,6 +70,8 @@
 
 ![#TODO - Saaderat exhibition](20230822143143.png){#fig:t-bird-saderat}
 
+![Parviz Tanavoli, Myth, 1961, Medium Gouache, ink and gilt on paper. 39 x 27 1/4 in. Grey Art Gallery, New York University Art Collection](20220707010237.png){#fig:t-angle}
+
 ![Details *Heech*, 1964](tanavoli-heech-hands.png){#fig:t-heech64-detail}
 
 ![Details *Heech*, 1964](tanavoli-heech-neon.png){#fig:t-heech64-detail2}

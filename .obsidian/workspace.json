@@ -87,8 +87,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,8 +181,10 @@
   },
   "active": "b2f1846f0067bfe2",
   "lastOpenFiles": [
-    "chapters/chapter3/ch3images.md",
+    "chapters/appendix.md",
     "chapters/chapter3/ch3content.md",
+    "chapters/chapter3/ch3images.md",
+    "main.md",
     "figures/stillsbbc.png",
     "chapters/chapter1/ch1anthropo.md",
     "chapters/misc/Vim Commands Cheatsheet for Obsidian.md",
@@ -194,7 +195,6 @@
     "chapters/Images.md",
     "chapters/chapter1/Pasted.md",
     "chapters/chapter2/ch2images.md",
-    "main.md",
     "makefile~",
     "main.md~",
     "templates/template.docx",

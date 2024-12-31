@@ -55,6 +55,8 @@ csl: templates/chicago-note-bibliography.csl
 
 ![[chapters/Images]]
 
+![[appendix]]
+
 \singlespacing
 
 \chapter*{Bibliography}
