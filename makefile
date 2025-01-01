@@ -28,11 +28,19 @@ $(PDF_OUTPUT): $(MAIN) $(OUTPUT_DIR) $(BIB_FILE) $(CSL_FILE)
 		-o $(PDF_OUTPUT)
 
 # Default target
+.DEFAULT_GOAL := pdf
 pdf: $(PDF_OUTPUT)
 
 # Clean build files
 clean:
 	rm -rf $(OUTPUT_DIR)
 
-.PHONY: pdf clean
+# Watch for changes and rebuild (requires inotifywait on Fedora)
+watch:
+	while true; do \
+		make pdf; \
+		inotifywait -e modify -r . -e create; \
+	done
 
+# Add phony targets
+.PHONY: pdf clean watch
