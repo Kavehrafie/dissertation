@@ -1,4 +1,4 @@
-\setcounter{chapter}{3} 
+\setcounter{chapter}{3}
 \setcounter{figure}{0}
 
 ![From left to right: Parviz Tanavoli, Jamshid Tanavoli, Jalil Ziapour, and Sohrab Sepehri, likely photographed in the 1950s.](ziapour-parviz-sohrab.png){#fig:ziapour-parviz-sohrab}
@@ -63,7 +63,6 @@
 
 ![Detail of a late 19th century painting depicting a lock wearer; over the entrance to the Ganj Ali Khan bath in Kerman. Tanavoli, *Locks from Iran* p.27.](a-lock-bearer.png){#fig:lockbr}
 
-
 ![Stills from the BBC documentary on Parviz Tanavoli.](stillsBBC.png){#fig:bbc}
 
 ![Parviz Tanavoli, Poet with Locks, 1972, Bronze. $280 \times 240 \times 105 cm (110 \times 94 \times 41 ")$, City Theater, Tehran](20230416203536.png){#fig:t-poet-w-lock}
@@ -72,6 +71,12 @@
 
 ![Parviz Tanavoli, Myth, 1961, Medium Gouache, ink and gilt on paper. 39 x 27 1/4 in. Grey Art Gallery, New York University Art Collection](20220707010237.png){#fig:t-angle}
 
+![The poster of Tanavoli's solo exhibition at Galerie Borghese, 1965, Tehran.](tanavoli-1965-borghese.jpg){#fig:poster65}
+
+![Parviz Tanavoli, *The Family (Mother and Children)*, 1960, scrap metal.](tanavoli-mother-sons.png){#fig:t-family}
+
+![Parviz Tanavoli, *Innovation in Art*, 1964, Photograph: Courtesy of Parviz Tanavoli](a6209654-4bd6-49c3-a1fa-658002687f28-1521x2040.webp){#fig:t-inno64}
+
 ![Details *Heech*, 1964](tanavoli-heech-hands.png){#fig:t-heech64-detail}
 
 ![Details *Heech*, 1964](tanavoli-heech-neon.png){#fig:t-heech64-detail2}
@@ -79,5 +84,3 @@
 ![Parviz Tanavoli, Heech, 1964, Plexiglas, wood, copper, plaster and oils, 82 x 80 cm, Manijheh collection.](tanavoli-first-heech.png){#fig:tanavoli-first-heech}
 
 ![Parviz Tanavoli, *Oh Persepolis II*, 1975-2008, bronze, $186\times128\times25$ cm](tanavoli-wall-p2.png){#fig:tanavoli-wall2}
-
-
