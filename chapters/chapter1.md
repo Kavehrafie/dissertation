@@ -1,7 +1,4 @@
-\chapter{Introduction: The Rooster Crows}
-\setcounter{chapter}{1}
-
-
+# Introduction: The Rooster Crows
 
 ![[ch1intro]]
 

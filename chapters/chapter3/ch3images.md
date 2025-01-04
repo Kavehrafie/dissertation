@@ -75,6 +75,8 @@
 
 ![Parviz Tanavoli, *The Family (Mother and Children)*, 1960, scrap metal.](tanavoli-mother-sons.png){#fig:t-family}
 
+![Crude oil prices from https://ourworldindata.org/grapher/crude-oil-prices?time=1906..1988](crude-oil.png){#fig:oil}
+
 ![Parviz Tanavoli, *Innovation in Art*, 1964, Photograph: Courtesy of Parviz Tanavoli](a6209654-4bd6-49c3-a1fa-658002687f28-1521x2040.webp){#fig:t-inno64}
 
 ![Details *Heech*, 1964](tanavoli-heech-hands.png){#fig:t-heech64-detail}
