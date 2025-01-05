@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapters/chapter3/ch3content.md",
+                "file": "chapters/chapter3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ch3content"
+              "title": "chapter3"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapters/chapter3/ch3images.md",
+                "file": "chapters/chapter3/ch3misc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ch3images"
+              "title": "ch3misc"
             }
           }
         ]
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9c0d77980d5c448d",
@@ -181,10 +180,18 @@
   },
   "active": "b2f1846f0067bfe2",
   "lastOpenFiles": [
+    "chapters/chapter3/ch3misc.md",
+    "chapters/chapter3.md",
+    "chapters/chapter3/test_image.md",
+    "Figures/124e1d33-fbfd-4e2e-8df9-6f722c88a725.jpg",
+    "Figures",
+    "figures/cc75a39a-ff4a-4c68-9bb1-f77938264989.jpg",
+    "cc75a39a-ff4a-4c68-9bb1-f77938264989.jpg",
+    "figures/367351a2-ad15-4e72-9c16-6d84b22a9643.jpg",
+    "Figures/367351a2-ad15-4e72-9c16-6d84b22a9643.jpg",
     "chapters/chapter3/ch3images.md",
     "chapters/chapter3/ch3content.md",
     "figures/crude-oil.png",
-    "chapters/chapter3/ch3misc.md",
     "chapters/chapter2/ch2misc.md",
     "chapters/chapter3/ch3content.md~",
     "output/dissertation.pdf",
@@ -195,8 +202,6 @@
     "chapters/chapter1/ch1anthropo.md",
     "chapters/misc/Vim Commands Cheatsheet for Obsidian.md",
     "Tags",
-    "chapters/chapter3/Untitled.md",
-    "chapters/chapter3.md",
     "chapters/chapter1/ch1images.md",
     "chapters/Images.md",
     "chapters/chapter1/Pasted.md",
@@ -206,7 +211,6 @@
     "templates/template.docx",
     "templates/style.tex",
     "templates/chicago-note-bibliography.csl",
-    "templates/bibliography.bib",
     "figures/20230721124656.png",
     "chapters/chapter1.md",
     "chapters/chapter1/ch1context.md",
@@ -215,11 +219,6 @@
     "chapters/chapter3/ch3std2jk.md",
     "optimized_images/tanavoli-seated-man2.png",
     "optimized_images/ziapour-parviz-sohrab.png",
-    "optimized_images/ziapour-khorus-jangi.png",
-    "optimized_images/ziapour-kaveh.png",
-    "optimized_images/women.png",
-    "optimized_images/tanavoli-wall-p2.png",
-    "optimized_images/tanavoli-venus-of-iran.png",
     "temp_markdown/main.md",
     "temp_markdown/translations.md",
     "temp_markdown/references.md",

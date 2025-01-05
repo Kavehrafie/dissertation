@@ -11,5 +11,6 @@
   "obsidian-languagetool-plugin",
   "obsidian-enhancing-export",
   "obsidian-vimrc-support",
-  "vim-yank-highlight"
+  "vim-yank-highlight",
+  "obsidian-minimal-settings"
 ]

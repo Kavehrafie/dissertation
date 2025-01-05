@@ -138,6 +138,12 @@ In Armajani and Tanavoli's understanding, poets have historically served as guar
 
 A contemporaneous work, *Prophet* (1961, fig. @fig:t-prophet61) maintains the symmetrical structuring of *Poet* (fig. @fig:t-poet61b) while introducing distinctive symbolic alterations. The cage, previously located at the base, now occupies the figure’s chest, and a padlock replaces the faucet. The lock embodies the tension between prohibition and transgression, suggesting that constraints on desire may heighten erotic and emotional intensity. There is a sense in which Tanavoli’s petrified, locked sculptures articulate visual configurations of perpetual unfulfillment---or indeed, castration. As Tanavoli himself elucidates this tension: “Prophet was to me [a] figure who is self-censored, sexuality, they put a ban on it, they do not talk about it, they want to hide it. … The poet was a man of freedom who opposed the prophet.”[ Tanavoli in an interview with Fock. Cited in @fockIranischeModerneBildenden2011 p. 106.] While these figures emerge as opposing archetypes in Tanavoli's oeuvre, their mutual entanglement occasionally results in their collapse into one another, evoking Lacanian *jouissance*—that painful experience of excessive pleasure. This symbolic dissolution might be read as poetic frustration manifesting in prophetic castration. Alternatively, Tanavoli's seemingly contradictory yet obsessive invocation of these beloved motifs reinforces a sense of compulsive repetition, perhaps functioning as a national allegory for Iran's modernization process itself, replete with its traumatic exhilaration and self-immolation.[For the notion of national allegory see @jamesonThirdWorldLiteratureEra1986]
 
+> [!todo]  incorporate
+The Name of Father and order 
+“But while the prophet, like the poet was superiot to the rest of humanuty, he could not escape the yoke of obligation, and nothing symbolized such obligation better than the lock, which I would often hang from his body.”[ Parviz Tanavoli in Sherril ed *Works of Parviz Tanavoli*, vol 6. Poet. 2014]
+>
+“The poet was a mean with all the freedom. Opposite the poet was the prophet, with all the restrictions, very religious and confined … The faucet for me is a symbol of freedom, You know, water in my country means everything. It means life, it means freedom … In Iran in a village in the desert, people walk miles to bring just one jug of water. Water means something, and that is why they have made many water places, publiv water places, for people to go and get water. And in these places you have to step down forty steps, deeps into the ground. And way down in the darkness you see a faucet. That faucet means everything, because it gives you the water.”[ Fock, 110–11.]
+
 In Tanavoli's art, handmade locks (see for example, fig @fig:lock) transcend their erotic symbolism as genital substitutes to epitomize the "outmoded," resisting mechanized commodification. To Tanavoli, these objects derive their power not from aesthetic or utilitarian merit but from their role as cultural talismans—embedded within networks of rituals, beliefs, and traditions. This significance manifests in devotional practices where supplicants attach locks to shrines, seeking divine intervention through a ritualistic contract with higher powers to resolve their earthly concerns.
 
 Captivated by these ingenious mechanisms, Tanavoli initiated a diverse collection—including locks and carpets—that transformed from casual acquisition to systematic documentation by the mid-1970s. This scholarly pursuit culminated in an exhibition *Locks from Iran: Pre-Islamic to Twentieth Century* (1976) at the Smithsonian Institution and The exhibition united Tanavoli's collection with notable specimens from Mashhad's Imam Reza Shrine Museum and the Museum of Ethnography in Tehran.
@@ -181,6 +187,10 @@ In 1972, Grey organized a exhibition titled "One World Thru Art" at the Minnesot
 > This exhibition presents one thousand and one works of art from the past decade. Each speaks for its creator in its own way. Collectively, these works reflect long, deep-rooted traditions and the influence of ancient cultures. But they also move inevitably into the mainstream of contemporary art as it courses throughout the world, and help to break down the barriers of nationality, thus bringing nearer to realization the dream expressed in the exhibition's title: ONE WORLD THRU ART.[@greyPictureWindowWindow1975 p. 252. Emphasis by Grey.]
 
 Grey's cultural activities aligned with America's broader Cold War engagement with Third World cultural landscapes.[See chapters "Abbey Weed Grey's Journey to the East" and "Forgotten Geographies of Artistic Diplomacy" in @gumpertModernismsIranianTurkish2019] Against this backdrop, the fortuitous encounter between Tanavoli and Grey proved timely, serving both the artist's career trajectory and the collector's cultural-political aspirations.
+
+> [!todo]  incorporate
+> Grey shared Queen Farah’s interest in collecting objects and token .. culture like carpets, handcrafts and… In the introduction to her memoir, Peter Chelkowski summarized Grey’s philosophy of collecting. “Though separated by language, culture, and continents, "One World Through Art," is the philosophy of Abby Grey, a belief she has demonstrated by collecting the art of Asia and displaying it to the western world,” writes Chelkowski.[ Chelowskin in Grey, XVI / Grey, The Picture Is the Window / the Window Is the Picture.] Grey avidly collected artworks of artists from the Global South. In particular, her collection contains “one of the most significant extant collections of Tanavoli’s oeuvre—nearly 80 works ranging from paintings, drawings, and prints, to jewelry, ceramics, and sculptures.”[ Balaghi, “Abby Weed Grey and Parviz Tanavoli.”] Tanavoli was indeed Grey’s trustee and personal envoy to acquire artworks and objects with cultural significance. Tanavoli brought Abbey to see the works of Iranian artists including Jazeh Tabatabai, Sohrab Sepehri, and Faramarz Pilaram, and gave her advice on what to purchase.[ Tanavoli was aware that Grey collection will shape the narrative of New Art in the West. Thus, in his advice, he promoted the works in line by a particular narrative of modern “Persian art”. The exclusion of certain figures is interesting like Yektai. ]
+
 
 The development of avant-garde art infrastructure in Iran progressed gradually through the mid-twentieth century, despite pioneering efforts to establish independent exhibition spaces since the late 1940s, starting by Āpādānā.[^21] As scholar Shiva Balaghi observes, "the gallery scene was still nascent, and there no museums dedicated to the exhibition of contemporary art" [@balaghiMemoryLocksCages2015 p. 14]. Beyond *Kaboud* and couple other venues, exhibition spaces still remained limited, with most institutions dependent on governmental funding. A significant indication of modern art's growing relationship with Iran's emergent financial class emerged when Bank Sāderāt, established following the nationalization of the British-owned Bank of Iran and the Middle East in 1952, became one of the new financial institutions of the post-Mossadegh period <!-- TODO : not sure about this source [Karshenas, _Oil, State and Industrialization in Iran_, 98–99] -->. Its unprecedented initiative to showcase avant-garde art marked the first such undertaking by an Iranian private banking institution.
 
@@ -227,6 +237,8 @@ The gallery's approach resonated with the ethos of the College of Decorative Art
 Tanavoli's exhibition at Galerie Borghese did not proceed as anticipated, closing shortly after its opening due to public outcry.[see @fockIranischeModerneBildenden2011 p. 137; @tanavoliTanavoliTanavoli2010 p. 87]
 This contentious episode, as will be examined in forthcoming sections, catalyzed a pivotal encounter between Empress Farah and Tanavoli during a subsequent exhibition at the same venue.
 
+> [!warning] You need to correct this
+> 
 The theme of maternal love, while not prominent in Tanavoli's artistic repertoire, manifests in select assemblages.
 A notable example of the theme, *The Family (Mother and Child)*, likely created in 1960 but never publicly exhibited,extends his explorations of zoomorphic forms (fig. @fig:t-family).
 The work depicts a mother with two sons—their bodies constructed from prefabricated cubes, with cylindrical appendages serving as limbs, while water taps and tubes form crude phallic elements on the boys.
@@ -234,8 +246,24 @@ The sculpture garnered recognition in 1967 when it secured a $500 prize—endowe
 However, Galerie Borghese's proprietor, Baghayi, refused to display the sculpture, citing its size as pretext—likely fearing royal displeasure, as the mother-and-sons configuration inevitably evoked the Queen, Crown Prince Reza Pahlavi (b. October 31, 1960) and Prince Ali Reza (April 28, 1966 -- January 4, 2011). In a controversial turn of events, Baghayi prohibited Tanavoli's attendance at the exhibition's premiere, seeking to impede any discourse between the artist and Empress Farah.
 Subsequently, as media attention intensified due to the Queen's attendance, Baghai---in a state of considerable distress---implored Tanavoli to paint the piece, attempting to obscure its foundational composition of salvaged metal components, which were deemed aesthetically inadequate.[^27]
 Gesile Fock contends that Empress Farah's endorsement of modernist artists, particularly Tanavoli, proved instrumental in their ascendancy, given her attendance consistently eliciting favorable media response, with negligible critical commentary.[@fockIranischeModerneBildenden2011 p. 229]
+> Consider Emami's report on Dec 26, 1966: "A total of 78 works submitted by just over 30 participants, most of whom come from the well-established class" [@emamiKarimEmamiModern p. 222]
+> As Emami reports, Gholam-Hossein Nami, Massoud Arrabshahi and Partiv Tanavoli equally received 4000 tomans each.
+> Emami describes Tanavoli's works as follows:
+> "Tanavoli's sculpture piece is a towering metallic structure showing a mother strolling with her son and daughter. The girl clinging to her mother's arm while the boy runs ahead holding a tricycle. This sculpture takes us back to a good period of Tanavoli's work a few year ago, before his departure for the United States." [@emamiKarimEmamiModern p. 222]
+
+
+
+
 
 Ironically, the incident strengthened Tanavoli's relationship with Empress Farah. Upon learning of the controversy, the queen took a keen interest in Tanavoli’s work and sought for advice on the broader state of contemporary sculpture in Iran. Ultimately, she commissioned Tanavoli to produce a comprehensive report on Iranian sculpture, with a particular focus on public art in parks and buildings.
+
+> [!todo]  incorporate
+In the summer of 1966, Tanavoli received his first major commission for public bronze sculpture, marking a significant milestone in his career. The project, commissioned for the newly constructed Pahlavi Park (now Daneshjoo Park), was a monument dedicated to the crown prince. Tanavoli's design consisted of seven life-size, naturalistic figures of children at play, with the crown prince prominently positioned above the others.
+This commission was part of a broader initiative to integrate modern art into public spaces, a trend that reflected the Pahlavi regime's modernization efforts. The project also highlights the growing recognition of Tanavoli's work by official institutions and his increasing prominence in Iran's art scene.
+It is important to note that while Tanavoli designed the monument, the actual execution was carried out by Mohammad Hossein Bahramian, one of Tanavoli's students at the time. This practice of delegating production to students was not uncommon for Tanavoli, particularly for large-scale public works. Similar sculptures were installed in other Tehran parks, including Niavaran Park, the Museum of Contemporary Art, and Shafagh Park.
+The park itself has a notable history. In 1966, the Tehran municipality decided to transform the land previously occupied by the City Café at Pahlavi Crossroads into a park and cultural center. Part of the land became a park, while another section was developed into the City Theater. Initially named "Pahlavi Park," it was soon renamed "Vali'ahd Park" (Crown Prince Park). Following the 1979 revolution, it underwent another name change, becoming "Daneshjoo Park" (Student Park), as it is known today.
+This commission and the park's development were part of a larger urban renewal project in Tehran, reflecting the regime's efforts to modernize the city's public spaces and integrate contemporary art into the urban landscape. The project also demonstrates the close relationship between artistic production, urban planning, and political power in pre-revolutionary Iran.
+"This commission is not my favorite kind of work but I am happy to have it." Tanavoli in correspondence with Grey 3,7,1966 Box 5 Fl 45
 
 In a broader context, Empress Farah's imprimatur wielded considerable influence in molding both public sentiment and media discourse, thus by sectioning edgy and somewhat transgressive expressions like Tanavoli but also transformed them into markers of social prestige and cultural sophistication in Iran.
 The phenomenon reflects what sociologist Pierre Bourdieu terms the "production of belief" in cultural goods, where elite patronage confers legitimacy and desirability upon certain artistic forms. [@bourdieuProductionBeliefContribution1993]
@@ -273,13 +301,71 @@ This cycle repeated with the 1973 oil revenue surge, triggering inflationary pre
 These fluctuations had a particularly severe impact on urban working and underclass populations, further deepening socioeconomic divisions.
 
 The economic instability was further complicated by cultural tensions arising from the influx of American consumer goods and cultural products.
-This Americanization of Iranian consumer culture intersected with lingering anti-Western sentiment stemming from the 1953 coup, creating a complex sociocultural landscape and social unrest.
+This Americanization of Iranian consumer culture intersected with lingering anti-Western sentiment stemming from the 1953 coup, creating a complex sociocultural resentment and social unrest.
 The resulting tensions were particularly acute among traditional sectors of society and the growing urban poor population, many of whom were recent peasant migrants from rural areas seeking employment in the cities (see Chapter 1).
 
+
+==It must appear as an Irony that against the backdrop of this level of penetration by global consumer products and American manufactured good and culture, that at the 3rd Tehran Biennial (1962), became the locus of an emerging tendency among Iranian artist that came to be known Saqqākhāneh, named after public water fountains that serve as sites of religious devotion, encompasses a diverse range of artistic expressions, represented a turn towards Iranian cultural heritage and religious iconography as sources of artistic inspiration.  It was at this biennial that the Museum of Modern Art (MoMA) aquired two of the exhibited works by Zenderoudi and Pilārām, and Emāmi, influential Iranian critic and a faculty at the College of Decorative Arts,  came up with the term to described the turn to popular culture and folklore. 
+
+Karim Emami, Iranian critic who was teaching at the Collage of Decorative Arts English and often publishing his review in the Keyhan International, bestowed it the name. Simultaneously, the Museum of Modern Art (MoMA) aquired two of the exhibited works by Zenderoudi and Pilārām. Emami originally used the term Saqqakhaneh in 1962 to describe an artistic approach that integrated populist themes from Iranian Shiite fold art into modernist art.
+
+ while not a unified school with a shared manifesto, with often common interest in .[ See Tanavoli’s interview in poshtebam 1] represented a turn towards Iranian cultural heritage and religious iconography as sources of artistic inspiration. 
+ 
+ Artists associated with Saqqakhaneh, such as Hossein Zenderoudi, Parviz Tanavoli, and Faramarz Pilaram, incorporated elements from traditional crafts, talismans, religious fabrics, and ancient motifs into their work, creating a distinctive visual language that was both modern and rooted in Iranian traditions.[ Hamid Keshmirshekan, "Neo-traditionalism and Modern Iranian Painting: The Saqqa-khaneh School in the 1960s," Iranian Studies 38, no. 4 (2005): 607-630.] This sets it apart from Pop Art which heavily invested in massproduced commodities like Andy Warhol’s Brillo Boxes. Yet there is in fact core connections between the two yet the conditions of each one being the first World and the latter Third World defined them in a different ways.
+
+
+For Emami, Zenderoudi was the "Saqqakhaneh artist par excellence". [Karim EMAMI, Modem Persian Artists, in: Ehsan YARSHATER (Hrsg. ), Iran faces the Seventies, New York 1971, 349-364, 355.]
+
+> I ﬁrst noticed the converging paths of these artists in Third Tehran Biennal (1962) and gave them a name, and I said that as a group they were the most dynamic and presented the most promise among all those who were trying to pull off something Iranian. (Karim Emami, ‘Making Reciprocity Stick: Artists are Becoming Critics,’ in Houra Yavari (ed.), Karim Emami on Modern Iranian Culture, Literature & Art (New York: New York: Persian Heritage Foundation, 2014), 226–227.)
+
+Hossein Zenderoudi the first time in the Third Biennial canvases attributig to his famous print
+In 1960, the artist Hossein Zenderoudi presented his work, Who is this Hossein the World is so crazy about? (1958/59), at an exhibition at Reza Abbasi Hall.
+In interviews, Zenderoudi claimed to be the pionner of Saqqakhaneh [Zenderoudi claiming that he was the pioneer of Saqqakhaneh. see: anonymous Talash 2 (Mordad 1344) 21-25 and 144, 21.  also Ferdowsi 984 (27 mehr 1349) and Tamash 146 see @fockIranischeModerneBildenden2011 p. 170]
+Emami characterizing Zenderoudi's works: 'the new course as a result of a joke' [see @keshmirshekanArtIranTwentieth2023 p. 99]
+
+The art historian Fereshteh Daftari states that it was the artist Marcos Grigorian who introduced Zenderoudi to the printmaking technique of linocut during his studies at the Boys’ Art College Honarestan-e Honarha-ye Ziba (1958–1960). Grigorian was deeply engaged not only in printmaking but also in the preservation of coffeehouse painting, which was not considered part of Iran’sofﬁcial cultural heritage at that time and thus not part of Pahlavi preservation policies. [@nahidiCulturalPoliticsArt p.154]
+
+According to [@keshmirshekanArtIranTwentieth2023], Saqqakhaneh can be divided into two periods:
+> early (from 1962–c.1964) and late (from 1964–77). The first period was devoted mainly to the employment of folk religious elements in the works of artists such as Zenderoudi, Tanavoli and Pilaram. The later period involved all the artists, both painters and sculptors, who drew directly on the traditional art forms of Iran as raw material for their work. They were all adapting forms and themes gleaned from the past (from the Achaemenids to the Qajars, for example) – even if unrelated to Shiite iconography.
+Keshmirshekan divided Saqqakhaneh into two groups: Zenderoudi, Pilaram, Ghandriz, and Arabshahi who dealt with abstract ornamental elements, sometimes the entire picture place in geometric shapes; Tabrizi, Oveissi and Tabatabai who focused on female representation within a particular style inspired by traditional art.
+
+Yarshater in his retrospective analysis of the development of modern art in iran, came to a different assessment of the beginnings of the Saqqakhaneh style. According to him, Ziapour, Kazemi and Mohsen Vaziri are considered to be the artists who first worked with the symbolic motifs of the Saqqakhaneh style. Yarshater describes the formal motifs of the Saqqakhaneh:
+> These artists vary considerably in their 'modus operandi', but they share a consistent reference to themes and symbols of traditional Persian life and art. This evocation of the past takes many forms. lt may occur as a restatement of the elements of traditional Persian architecture, painting, or ceramics; or a reworking of Persian calligraphic styles into a visual statement, or conjuring-up the vision of a type lost to the modernized Persian life.
+
+Ehsan YARSHATER, Contemporary Persian Painting, in: Richard ETTINGHAUSEN und
+Ehsan YARSHATER (Hrsg.), Highlights of Persian Art, Boulder, Colorado 1979, 363-377, 365.
+Yarshater sees this transition in Ziapour's Zeynab Khatun. (use of Qajar tiles and folklore) both content and formal appreciation of tradition. In Kazemi, Tar Player of 1959.
+Hadi Sayf attributed the beginning of Saqqakhaneh to Ziapour's paintings using the tile system.
+Hädi SEYF: Warum hat sich Picasso nicht für die Kunst des Ostens interessiert? in·
+Rastä!].fz gavänän, 739 (19. Mehr 1356) 10.
+According to Hadi Sayf, the use of Iranian visual culture became apparent in the first two biennals.  Hädi SEYF, Die_3. Biennale: Die Entwicklung zu einem iranischen Stil, in: Rastähiz
+gavänän 12 (17. Abän 1356), 12.
+Hadi Sayf attributed the beginning of Saqqakhaneh to Ziapour's paintings using the tile system.
+Hädi SEYF: Warum hat sich Picasso nicht für die Kunst des Ostens interessiert? in·
+Rastä!].fz gavänän, 739 (19. Mehr 1356) 10.
+According to Hadi Sayf, the use of Iranian visual culture became apparent in the first two biennals.  Hädi SEYF, Die_ 3. Biennale: Die Entwicklung zu einem iranischen Stil, in: Rastähiz
+gavänän 12 (17. Abän 1356), 12.
+the catalog of the Saqqakhaneh exhibition at TMoCA included these artists: Zendero~di, Tanavoli, Pilaram, Arabshahi, Tabrizi, Ghandriz, Oveissi und Tabatabai. ses [@fockIranischeModerneBildenden2011 p. 175]
+
+Nahidi argues that Emami was influenced by Al-e Ahmad in his promotion of Saqqakhaneh [@nahidiCulturalPoliticsArt p.172]
+
+"The neo-traditionalist movement of Saqqā-khāneh in the 1960s with all its varieties was in fact born within a cultural and political context for which the questions of collective national identity and revival of past authentic culture were predominant concerns." [@keshmirshekanArtIranTwentieth2023 p. 113]
+
+Saqqakhaneh was not disparaged as "belated" [@nahidiCulturalPoliticsArt p.146]
+
+> Yet, Emami’s writings show that the works identiﬁed through this description were deeply rooted in an anticolonial discourse that was connected to the debates about westoxiﬁcation (gharbzadegi) in Iran. Emami’s classiﬁcation of Saqqakhaneh as a cultural practice of resistance was, thus, an attempt to establish a counter-narrative within the ﬁeld of cultural politics in Pahlavi Iran. [@nahidiCulturalPoliticsArt p. 147]
+
+"an art movement considered to be a manifestation of latent nationalism"[
+kamran Diba in @aliContemporaryArtIslamic1989 152]
+"Saqqā-khāneh artists were later seen as representative of cultural agendas of the state during Mohammad Reza Shah’s reign "[@keshmirshekanArtIranTwentieth2023 118]
+
+Reza Mafi (b.1943) and Mohammad Ehsa'i (b.1939) are different from say Zenderoudi using calligraphy
+
+While these were happening in Iran Tanavli was in Minneapolis
+
+
+
 ---
-
-In this context, the Third Tehran Biennial (1962), became the locus of an emerging tendency among Iranian artist that came to be known Saqqākhāneh. Iranian critic who was teaching at the Collage of Decorative Arts English and often publishing his review in the Keyhan International, bestowed it the name. Simultaneously, the Museum of Modern Art (MoMA) aquired two of the exhibited works by Zenderoudi and Pilārām.
-
 Iranian architect Kamran Diba, an associate of renowned artist Parviz Tanavoli, was among the first to draw a compelling parallel between Pop Art and Saqqakhaneh.
 Diba dubbed Saqqakhaneh “Spiritual Pop Art,” highlighting the intersections between the two:
 
@@ -289,6 +375,10 @@ Though seemingly simplistic, Diba’s conceptual framing illuminates the complex
 The term “Saqqakhaneh” gained prominence during the Third Tehran Biennial in 1962, when Iranian art critic Karim Emami introduced it to describe this emerging artistic phenomenon.  Emami drew inspiration from the public water fountains that serve as focal points for religious devotion in Iran, using this culturally significant reference to characterize a burgeoning artistic trend. While Saqqakhaneh did not represent a cohesive artistic school nor a unified movement, it encompassed a diverse array of artistic expressions united by a shared interest in Iranian cultural heritage and religious iconography during the 1960s.[ For the debate on the nature of Saqqakhaneh see Nahidi and Tanavoli insists that they do not have any manifesto Tanavoli’s insistence on it in poshtebam 1]
 Artists associated with Saqqakhaneh, Hossein Zenderoudi, Parviz Tanavoli, Massoud Arabshahi, Jazeh Tabbatabayi, Sadegh Tabrizi, and Faramarz Pilaram, to name a few, drew upon a wide range of cultural sources in their work. They incorporated elements from traditional crafts, talismanic designs, religious textiles, Qajar-era portraiture, and ancient motifs, synthesizing these diverse influences to create a distinctly Iranian form of modern visual expression. This approach allowed them to forge a unique artistic language that was simultaneously rooted in local traditions while legible to the global art market.[ For the rise of neo-traditionalism see X Hamid Keshmirshekan, "Neo-traditionalism and Modern Iranian Painting: The Saqqa-khaneh School in the 1960s," Iranian Studies 38, no. 4 (2005): 607-630.]
 While scholars like Hamid Keshmirshekan have attempted to explain Saqqakhaneh, calling it “neotraditionalism” and exploring its institutionalization, such frameworks often remain confined to national narratives, failing to establish the transnational connections that shaped these artistic movements.[ ] My analysis is grounded in the recognition that although Pop Art and Saqqakhaneh emerged from markedly different contexts—the consumer-driven First World and the unevenly modernizing Third World, respectively—these contexts were not isolated but dynamically linked through global economic and cultural flows.
+
+He was introduced in the media as the aftabeh-maker ("honarmande aftabeh saz") (Aghdaashloo in posthebam 1, 56)
+
+“Consciousness of the antagonism between interior and exterior is requisite to the experience of art.”[ Adorno, aesthetics, 349] 
 
 [^1]: First with the dismissal and the later arrest of Abdolhossein Teymourtash, an influential statement, bureaucrat, and the minister of court, who played significant role in transforming Iran and navigating its relationships with the foreign powers, and the suicide of Ali-Akbar Dāvar, a politician and judge and the founder of the modern judicial system of Iran, the project of building state was coming to a bitter ending. By the end of the 1930, Reza Shah clamp down on any sign of dissent, for example the imprisonment of 53 renowned intellectuals and Left-wind organizers in 1937. See @keddieModernIranRoots2010 87-140; @abrahamianIranTwoRevolutions1982 143-165
 
