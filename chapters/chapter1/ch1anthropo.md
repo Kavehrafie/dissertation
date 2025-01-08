@@ -77,7 +77,7 @@ Daneshvar made immense contributions to Iranian art theory through her translati
 
 In the wake of the sudden loss of Al-e Ahmad in 1969, Daneshvar published her landmark novel *Siavushun* (translated in 2012 in English, titled *A Persian Requiem*). Set in Shiraz during the British occupation of southern Iran in World War II, the narrative centers on Zari, whose landowning husband is murdered after refusing to surrender his crops to occupying forces, choosing instead to protect his peasants from starvation. Through Zari's evolving consciousness, Daneshvar weaves together personal loss and political allegory, tracing her protagonist's journey from traditional wife to resistance fighter. The novel examines the exploitation of Iranian farmers through two intersecting systems of power---local feudal landowners and British imperial forces---while chronicling the emergence of women's social consciousness. Drawing on both Shi'a martyrdom traditions and the mythological figure of Siyavash from the Shahnameh, Daneshvar constructs a complex meditation on sacrifice and national renewal. Her narrative suggests that meaningful social transformation requires confronting both external imperial control and internal structures of oppression, particularly feudal and patriarchal systems.
 
-In \hyperref[chap:3]{Chapter 3}, I will further examine Al-e Ahmad’s ethnographic approach to art in his encounter with an exhibition at the Apadana Gallery in 1949.
+In [Chapter @sec:ch3], I will further examine Al-e Ahmad’s ethnographic approach to art in his encounter with an exhibition at the Apadana Gallery in 1949.
 
 
 > [!NOTE]
@@ -91,7 +91,7 @@ In \hyperref[chap:3]{Chapter 3}, I will further examine Al-e Ahmad’s ethnograp
 [^4]: @fockIranischeModerneBildenden2011[259]
 [^5]: @tanavoliTanavoliTanavoli2010[94]
 [^6]: @tanavoliTanavoliTanavoli2010[94]
-[^7]: See \hyperref[chap:3]{Chapter 3} on the return of the repressed.
+[^7]: See [Chapter @sec:ch3] on the return of the repressed.
 [^8]: @jamesonPostmodernismCulturalLogic1991
 [^9]: #todo <!-- revise this : For Jameson see: ?? --->
 [^10]: @daftariSafarVoyageContemporary2014[2]

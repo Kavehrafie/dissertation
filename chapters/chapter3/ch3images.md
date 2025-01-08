@@ -67,7 +67,7 @@
 
 ![Parviz Tanavoli, Poet with Locks, 1972, Bronze. $280 \times 240 \times 105 cm (110 \times 94 \times 41 ")$, City Theater, Tehran](20230416203536.png){#fig:t-poet-w-lock}
 
-![#TODO - Saaderat exhibition](20230822143143.png){#fig:t-bird-saderat}
+![#TODO - Saaderat exhibition](20230822143143.png){#fig:t-bird-s}
 
 ![Parviz Tanavoli, Myth, 1961, Medium Gouache, ink and gilt on paper. 39 x 27 1/4 in. Grey Art Gallery, New York University Art Collection](20220707010237.png){#fig:t-angle}
 
@@ -77,7 +77,7 @@
 
 ![Crude oil prices from https://ourworldindata.org/grapher/crude-oil-prices?time=1906..1988](crude-oil.png){#fig:oil}
 
-![Parviz Tanavoli, *Innovation in Art*, 1964, Photograph: Courtesy of Parviz Tanavoli](a6209654-4bd6-49c3-a1fa-658002687f28-1521x2040.webp){#fig:t-inno64}
+![Parviz Tanavoli, *Innovation in Art*, 1964, Photograph: Courtesy of Parviz Tanavoli](a6209654.jpg){#fig:t-inno64}
 
 ![Details *Heech*, 1964](tanavoli-heech-hands.png){#fig:t-heech64-detail}
 

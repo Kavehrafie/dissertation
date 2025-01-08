@@ -8,6 +8,8 @@ linestretch: 2
 indent: true
 classoption: openany
 parskip: 12pt
+footnotes-pretty: true
+footnote-layout: margin  # or 'end' for endnotes
 geometry:
   - top=1in
   - bottom=1in
@@ -17,6 +19,7 @@ geometry:
   - textwidth=6.50in
 bibliography: bibliography.bib
 csl: templates/chicago-note-bibliography.csl
+crossref: true
 ---
 
 
@@ -36,7 +39,7 @@ csl: templates/chicago-note-bibliography.csl
   The tradition of all the dead generations weighs like a nightmare on the brain of the living.
   \qauthor{\smaller[1]—Karl Marx}
   High Art is for all people, but Low Art is only liked by laymen.
-  \qauthor{\smaller[1]—Ziapour} 
+  \qauthor{\smaller[1]—Ziapour}
   All history is the preparation for ‘man’ to become the object of sensuous consciousness, and for the needs of ‘man as man’ to become [natural, sensuous] needs. History itself is a real part of natural history—of nature’s coming to be man
   \qauthor{\smaller[1]—Marx}
 \end{savequote}

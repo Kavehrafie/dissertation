@@ -676,6 +676,14 @@ cages
 confinement
 captive
 constantly
+correct
+clinging
+constitute
+current
+containing
+chronological
+categorizes
+comprising
 Introduction
 Iran
 Iranian
@@ -1078,6 +1086,8 @@ Tabatabai
 Tar
 Tanavli
 Tashdid
+Taking
+Tab
 Rooster
 Rafie
 Reza
@@ -1468,6 +1478,7 @@ Chelkowski
 Caf
 Crossroads
 Consciousness
+Consider
 setcounter
 sohrab
 seated
@@ -2121,6 +2132,13 @@ saz
 safe
 submit
 sets
+submitted
+showing
+strolling
+sufi
+sun
+sword
+spanning
 figure
 fig
 fertile
@@ -2490,6 +2508,9 @@ favorite
 fund
 frivolity
 forget
+formalization
+figural
+flag
 ziapour
 zanane
 ziba
@@ -2636,6 +2657,8 @@ zeo
 ziyeh
 zoomorphic
 zir
+zeh
+zolfaghar
 parviz
 png
 procession
@@ -3239,6 +3262,11 @@ posthebam
 physical
 pining
 penetration
+participating
+pioneer
+penis
+phases
+poshtebam
 tanavoli
 tg
 title
@@ -3248,7 +3276,6 @@ textwidth
 tableofcontents
 told
 the
-tradition
 to
 transformation
 threat
@@ -3266,9 +3293,7 @@ through
 transcends
 transforms
 that
-traditions
 three
-traditional
 these
 travels
 titled
@@ -3332,7 +3357,6 @@ thoroughfares
 truly
 tree
 theoretical
-traditionalist
 termed
 treasures
 teeming
@@ -3566,7 +3590,6 @@ templates
 traumatic
 threatened
 tapped
-traditionally
 tanavoliLocksIranPreIslamic
 trusted
 thoroughfare
@@ -3611,6 +3634,10 @@ trustee
 tangible
 tragic
 think
+tomans
+tricycle
+tab
+treating
 men
 mother
 mothers
@@ -4015,6 +4042,9 @@ motif
 manufactured
 manifesto
 massproduced
+metallic
+marz
+maritime
 nude
 note
 new
@@ -4263,6 +4293,8 @@ needed
 nameless
 nkisi
 nkondi
+nativism
+narraative
 venus
 vehicle
 violin
@@ -5153,6 +5185,11 @@ illegibility
 imprisoned
 inside
 invested
+identify
+imaginary
+imagiry
+informed
+insists
 abbasi
 akhund
 ahu
@@ -5749,6 +5786,13 @@ appearance
 aware
 agitated
 apple
+arm
+ago
+accelerating
+applied
+ambivalence
+attend
+annus
 lovers
 love
 linestretch
@@ -6067,6 +6111,7 @@ lingering
 latent
 latin
 light
+lion
 Picture
 Pasted
 Pleated
@@ -6291,6 +6336,7 @@ Product
 Pezeshnika
 Part
 Proliferation
+Partiv
 junubi
 jpg
 judicial
@@ -6757,6 +6803,7 @@ honarmande
 homes
 hopes
 heavily
+historiography
 wall
 women
 width
@@ -6986,6 +7033,7 @@ westoxi
 weaving
 walk
 write
+wrote
 List
 Low
 Love
@@ -7950,6 +7998,11 @@ begining
 burden
 breast
 bemoaning
+boy
+belied
+beheaded
+breasts
+bleshemous
 SourceURL
 Sistani
 Studio
@@ -8210,6 +8263,7 @@ Shafagh
 Student
 Simorgh
 Saqqakhenh
+Sun
 Downloads
 Davar
 Despite
@@ -8417,6 +8471,7 @@ Director
 Day
 Die
 Daneshjoo
+Dec
 diss
 draft
 docx
@@ -8914,6 +8969,9 @@ doubling
 daughter
 drown
 dissociate
+deq
+derives
+distortion
 eq
 eleventh
 end
@@ -9424,6 +9482,11 @@ exterior
 emptiness
 engrossed
 encompasses
+entities
+emblem
+eracted
+explors
+explored
 MariniMiracolo
 Modernity
 Modern
@@ -9685,6 +9748,7 @@ Memory
 Mohassess
 MoCA
 Mississippi
+Massud
 On
 Owl
 Over
@@ -10101,6 +10165,9 @@ Artistic
 Abbey
 Aghdaashloo
 Andy
+Arrabshahi
+Arabsh
+Although
 Kaveh
 Karl
 Kamal
@@ -10301,6 +10368,7 @@ Keyhan
 Khatun
 Khas
 Kashan
+Keyh
 report
 right
 roman
@@ -10777,6 +10845,8 @@ rugs
 restrictions
 resides
 restless
+reports
+receive
 geometry
 generations
 growth
@@ -11297,6 +11367,7 @@ Bahramian
 Ben
 Brillo
 Boxes
+Beaux
 qauthor
 qualified
 quote
@@ -12036,6 +12107,7 @@ Hadi
 Hädi
 Halliday
 Heech
+Hazrat
 Westernize
 World
 War
@@ -13395,6 +13467,7 @@ November
 Name
 Niavaran
 Now
+Nami
 Queen
 Qajar
 Qiyam

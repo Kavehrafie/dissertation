@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9c0d77980d5c448d",
@@ -180,6 +181,11 @@
   },
   "active": "b2f1846f0067bfe2",
   "lastOpenFiles": [
+    "chapters/chapter3.md~",
+    "chapters/chapter3/ch3misc.md~",
+    "figures/ac3b3859-fd04-46e8-a876-fbba6b913a96.jpg",
+    "figures/560208ea-c598-44ba-9c34-7156df96fea3.jpg",
+    "figures/fef41612-f108-4342-8858-a7b9831f4eb7.jpg",
     "chapters/chapter3/ch3misc.md",
     "chapters/chapter3.md",
     "chapters/chapter3/test_image.md",
@@ -210,15 +216,11 @@
     "main.md~",
     "templates/template.docx",
     "templates/style.tex",
-    "templates/chicago-note-bibliography.csl",
-    "figures/20230721124656.png",
     "chapters/chapter1.md",
     "chapters/chapter1/ch1context.md",
     "chapters/chapter1/ch1genesis.md",
     "chapters/chapter1/ch1intro.md",
     "chapters/chapter3/ch3std2jk.md",
-    "optimized_images/tanavoli-seated-man2.png",
-    "optimized_images/ziapour-parviz-sohrab.png",
     "temp_markdown/main.md",
     "temp_markdown/translations.md",
     "temp_markdown/references.md",

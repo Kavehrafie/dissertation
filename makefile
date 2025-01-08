@@ -19,6 +19,7 @@ $(PDF_OUTPUT): $(MAIN) $(OUTPUT_DIR) $(BIB_FILE) $(CSL_FILE)
 	$(PANDOC) $(MAIN) \
 		--lua-filter=$(OBSIDIAN_FILTER) \
 		--lua-filter=$(FIGREF_FILTER) \
+		--filter=pandoc-crossref  \
 		-M link-citations=true \
 		--number-sections \
 		--top-level-division=chapter \
