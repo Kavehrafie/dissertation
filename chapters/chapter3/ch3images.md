@@ -1,3 +1,9 @@
+---
+id: ch3images
+aliases: []
+tags: []
+---
+
 \setcounter{chapter}{3}
 \setcounter{figure}{0}
 
@@ -77,12 +83,24 @@
 
 ![Crude oil prices from https://ourworldindata.org/grapher/crude-oil-prices?time=1906..1988](crude-oil.png){#fig:oil}
 
+![Parviz Tanavoli, The Poet and the Beloved of the King, 1964-06, Wood, tin-plate, copper, steel, fluorescent light, perspex and oil paint, 189.7 × 108 × 107 cm, Tate Modern](74229e58-ace1-4e42-b535-4c31e0d4323e.jpg){#fig:tanavoliPoetBelovedKing1964}
+
 ![Parviz Tanavoli, *Innovation in Art*, 1964, Photograph: Courtesy of Parviz Tanavoli](a6209654.jpg){#fig:t-inno64}
+
+![Parviz Tanavoli, *Song of Life*, 1963, Copper, steel, glass and wax apple, 79 3/8 x 16 x 8 in.](8296299f-66b9-4733-bdd2-b80060892a32.jpg){#fig:tanavoliSongLife1963}
+
+![Parviz Tanavoli, *Revolution in Industry*, Galvanized steel, wood, windshield motor, transformer and wire, 60 x 43 x 20 cm, Parviz Tanavoli's private collection](20230417184914.png){#fig:t-rev63}
+
+![Parviz Tanavoli, Farhad and the Deer, 1960, 300x150x60cm (118 x 59 231/2)](a2fea728-3656-4fb7-858d-0b34918c672d.png){#fig:tanavoliFarhadDeer1960}
+
+![Parviz Tanavoli, Standing Poet, 1969](17b829ee-ee84-425b-9f9d-ef821f03f721.png){#fig:tanavoliStandingPoet1969}
 
 ![Details *Heech*, 1964](tanavoli-heech-hands.png){#fig:t-heech64-detail}
 
 ![Details *Heech*, 1964](tanavoli-heech-neon.png){#fig:t-heech64-detail2}
 
 ![Parviz Tanavoli, Heech, 1964, Plexiglas, wood, copper, plaster and oils, 82 x 80 cm, Manijheh collection.](tanavoli-first-heech.png){#fig:tanavoli-first-heech}
+
+![Parviz Tanavoli, We Are Happy within the Holes, bronze, 33 x 25 x 31 cm, Sammlung des Künstlers](7ff9ca6d-eebd-428f-a582-01012f538df3.png){#fig:tanavoliWeAreHappy}
 
 ![Parviz Tanavoli, *Oh Persepolis II*, 1975-2008, bronze, $186\times128\times25$ cm](tanavoli-wall-p2.png){#fig:tanavoli-wall2}
