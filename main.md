@@ -1,15 +1,20 @@
 ---
-title: "Pleated Modernity: On Anthropologization of Modern Art in Iran, 1941--1979"
+id: main
+aliases: []
+tags: []
 author: Kaveh Rafie
+bibliography: bibliography.bib
+classoption: openany
+crossref: true
+csl: templates/chicago-note-bibliography.csl
 date: "2024"
 documentclass: report
+figPrefix:
+  - fig.
+  - figs.
 fontsize: 12pt
-linestretch: 2
-indent: true
-classoption: openany
-parskip: 12pt
+footnote-layout: margin
 footnotes-pretty: true
-footnote-layout: margin  # or 'end' for endnotes
 geometry:
   - top=1in
   - bottom=1in
@@ -17,9 +22,10 @@ geometry:
   - right=1.25in
   - width=6.5in
   - textwidth=6.50in
-bibliography: bibliography.bib
-csl: templates/chicago-note-bibliography.csl
-crossref: true
+indent: true
+linestretch: 2
+parskip: 12pt
+title: "Pleated Modernity: On Anthropologization of Modern Art in Iran, 1941--1979"
 ---
 
 

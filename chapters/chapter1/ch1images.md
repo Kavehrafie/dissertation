@@ -1,6 +1,10 @@
-\setcounter{chapter}{1}
+---
+id: ch1images
+aliases: []
+tags: []
+---
 
-![Khorus Jangi magazine cover by Jalil Ziapour (1949)](ziapour-khorus-jangi.png){#fig:ziapour-khorus}
+\setcounter{chapter}{1}
 
 ![Adbolhassan Sadeghi, A Village near Florence, 1930, oil on canvas, 35 x 45 cm. (13.8 x 17.7 in.)](Pastedimage20241210234026.png){#fig:seddighi-florence}
 

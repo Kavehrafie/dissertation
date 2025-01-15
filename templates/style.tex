@@ -1,8 +1,8 @@
 \usepackage{footmisc}
 \usepackage{chngcntr}
-\usepackage{caption}
 \usepackage[section]{placeins}
 \usepackage{float}
+\usepackage{caption}
 \usepackage{subcaption}
 \usepackage{graphicx}
 \usepackage{epigraph}
@@ -91,3 +91,42 @@
 \setcounter{topnumber}{50}
 \setcounter{bottomnumber}{50}
 \makeatother
+
+\usepackage{multicol}
+\usepackage{fontspec}
+% \usepackage{bidi}  % Add this package for bidirectional text support
+
+\newfontfamily\farsifont{Noto Naskh Arabic}[
+    Script=Arabic,
+    Scale=1.2
+]
+
+% Simplified command without \textdir
+\newcommand{\heeh}{{\farsifont هـ\normalfont}}
+
+% Add this to your package imports if not already present
+
+% Define the subfigures environment with two-column arrangement
+\newenvironment{pandoccrossrefsubfigures}{%
+    \begin{figure}[H]
+    \centering
+    \begin{minipage}{\textwidth}
+    \centering
+    % Set subfigure to be arranged in two columns
+    \setkeys{Gin}{width=0.45\textwidth,height=0.45\textheight,keepaspectratio}
+    % Add these lines for two-column layout
+    \setlength{\parskip}{1em}  % Vertical space between rows
+    \setlength{\itemsep}{1em}  % Space between items
+    % Force two columns by setting appropriate spacing
+    \setlength{\columnsep}{2em}  % Space between columns
+    % Start two-column mode
+    \begin{multicols}{2}
+}{%
+    \end{multicols}
+    \end{minipage}
+    \end{figure}
+    % Reset to normal figure size
+    \setkeys{Gin}{width=0.8\textwidth,height=0.8\textheight,keepaspectratio}
+}
+
+

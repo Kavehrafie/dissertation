@@ -144,6 +144,11 @@ end
 function processFileContent(content, filepath)
 	debug_log("Processing content from: " .. filepath)
 
+	-- Add debug logging for headers with labels
+	content:gsub("#+ .-{#sec:.-}", function(match)
+		debug_log("Found header with label: " .. match)
+		return match
+	end)
 	-- Remove callouts first
 	content = removeCallouts(content)
 
@@ -159,9 +164,11 @@ function processFileContent(content, filepath)
 	local embeds = findEmbeds(content)
 	for _, embed in ipairs(embeds) do
 		debug_log("Found nested embed: " .. embed)
-		local replacement = processEmbed("![[" .. embed .. "]]")
-		if replacement then
-			content = content:gsub("!%[%[" .. embed .. "%]%]", replacement)
+		local escaped_pattern = embed:gsub("([%%{}])", "%%%1")
+		local escaped_replacement = processEmbed("![[" .. embed .. "]]")
+		if escaped_replacement then
+			escaped_replacement = escaped_replacement:gsub("%%", "%%%%")
+			content = content:gsub("!%[%[" .. escaped_pattern .. "%]%]", escaped_replacement)
 		end
 	end
 
@@ -223,4 +230,3 @@ function PandocEnd()
 		debug_file:close()
 	end
 end
-

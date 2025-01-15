@@ -73,6 +73,10 @@ tags: []
 
 ![Parviz Tanavoli, Poet with Locks, 1972, Bronze. $280 \times 240 \times 105 cm (110 \times 94 \times 41 ")$, City Theater, Tehran](20230416203536.png){#fig:t-poet-w-lock}
 
+![Parviz Tanavoli,abstract figural carpets, 1976. *Upper left:* original silk screen; *Upper left:* Qashqai copy from the print; *Lower left:* Shahsavān after Qashqāyi; and Baluch after Shahsavān](tanavoli_carpets.png){#fig:t-carpets76}
+
+![Placing propritiatory lock on grill of *Nakhl*, Ethnographical Museum, from *A Survey of Persian Handicraft* (1977), p. 156, commissioned by the Bank Melli Iran](nakhl-lattice.png)
+
 ![#TODO - Saaderat exhibition](20230822143143.png){#fig:t-bird-s}
 
 ![Parviz Tanavoli, Myth, 1961, Medium Gouache, ink and gilt on paper. 39 x 27 1/4 in. Grey Art Gallery, New York University Art Collection](20220707010237.png){#fig:t-angle}
@@ -101,6 +105,18 @@ tags: []
 
 ![Parviz Tanavoli, Heech, 1964, Plexiglas, wood, copper, plaster and oils, 82 x 80 cm, Manijheh collection.](tanavoli-first-heech.png){#fig:tanavoli-first-heech}
 
+![Parviz Tanavoli, Heech I, 1966, bronze, 37 x 13 x 12 cm, Nasser D. Khalili collection.](20230716235307.png){#fig:tanavoliHeech1966}
+
+![text](20230714131736.png)
+
+![text](a6209654.jpg)
+
+![text](tanavoli-heech-std.png)
+
 ![Parviz Tanavoli, We Are Happy within the Holes, bronze, 33 x 25 x 31 cm, Sammlung des Künstlers](7ff9ca6d-eebd-428f-a582-01012f538df3.png){#fig:tanavoliWeAreHappy}
+
+![text](131022_andy_warhol_iran_1976.jpg)
+
+![text](heech-wall.jpg)
 
 ![Parviz Tanavoli, *Oh Persepolis II*, 1975-2008, bronze, $186\times128\times25$ cm](tanavoli-wall-p2.png){#fig:tanavoli-wall2}

@@ -7,5 +7,6 @@
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.wordWrap": "on",
     "editor.minimap.enabled": false
-  }
+  },
+  "markdown-image.local.path": "/figures"
 }
