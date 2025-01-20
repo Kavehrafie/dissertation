@@ -35,6 +35,7 @@ $(PDF_OUTPUT): $(SOURCES) $(LATEX_TEMPLATE) $(BIB_FILE) $(CSL_FILE) | $(OUTPUT_D
 		--from markdown+raw_tex \
 		--to pdf \
 		--lua-filter=$(OBSIDIAN_FILTER) \
+		--lua-filter=filters/first-line-indent.lua \
 		--filter pandoc-crossref \
 		-M linkReferences=true \
 		--number-sections \
