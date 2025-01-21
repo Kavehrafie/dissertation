@@ -45,14 +45,42 @@ Ziapour and his colleagues genuinely aspired to expand their audience beyond int
 
 This educational initiative transcended conventional art instruction. They recognized the necessity of engaging with the masses and advancing culture as a prerequisite for fostering an environment where engaged citizenship could flourish.
 
-The successes of Apadana Gallery paved the way for the commodification of modern art in Tehran, catalyzing a proliferation of both commercial and non-commercial, often artist-run galleries. Notable among these were Galerie Esthétique (1954-59), Saba Gallery (?), New Art Gallery (Galleri-e honar-e jadid), Kabood (est. 1960), and Talar-e Iran (1964-78).  Collectively, these galleries strove to create an ecosystem that nurtured the development and increased the prominence of modern art in Tehran, building upon the foundation laid by Apadana and further expanding public engagement with modern art.
+The successes of Apadana Gallery created a market for modern art in Tehran, catalyzing a proliferation of both commercial and non-commercial, often artist-run galleries. Notable among these were *Galerie Esthétique* (1954-59, established by Marcus Grigorian), Sabā Gallery (?), New Art Gallery (*gālleri-ye honār-e jadid*), *Kabood* (est. 1960), and Tālār-e Irān (later renamed to *Tālār-e Qandriz*, 1964-78).[While Sabā and Galerie Esthétique had a more commercial focus, they maintained their commitment to artistic excellence. @pakbazContemporaryIranianPainting1974 p.14 ]
+Collectively, these galleries strove to create an ecosystem that nurtured the development and increased the prominence of modern art in Tehran, building upon the foundation laid by Apadana and further expanding public engagement with modern art.
 
-> [!NOTE]
->
-> "According to their personal statements, Javad Hamidi and Jalil Ziapour studied
-> at l’Académie André Lhote. But so far only Ziapour’s presence is attested through
-> the Lhote archive and the records of other artists mentioning Ziapour’s presence
-> at the Académie (Wille 2015:21)"(andre lhote and his students, p.162)
+The founders of Apadana prioritized cultural advancement over commercial success, setting themselves apart from the prevailing market tastes that favored naturalistic paintings influenced by 19th-century Russian landscape paintings and traditional Persian miniatures.
+To maintain their artistic independence while securing financial stability, they sought state funding—though unsuccessfully.[^6]
+Despite receiving media attention and interest from private investors, they safeguarded their autonomy by declining external investment offers. Instead, they established a membership program offering exclusive access to events, talks, and screenings.[^7]
+
+Although Apadana's brief existence spanned just over a year until 1950, its profound influence on Iranian artistic discourse established an enduring cultural legacy.
+The gallery's alternative platform, operating independently from commercial venues and foreign cultural institutions, enabled artists to transcend conventional artistic paradigms while fostering an environment to spark meaningful conversations about the role and purpose of art in society.
+
+Jürgen Habermas' concept of public space, articulated in *The Structural Transformation of the Public Sphere* (1962/1989) speaks to Apadana's role as a venue for "people's public use of their reason" [@habermasStructuralTransformationPublic2015 p. 27].
+Habermas posits that the public sphere, rooted in Enlightenment principles, is a fundamental organizing principle of liberal democracies, where “the sphere of private people come together as a public.” [@habermasStructuralTransformationPublic2015 p. 27]
+
+He traces the genesis of the public sphere to the rise of the bourgeois class, delineating the evolution of bourgeois cultural formation from its initial roots in the royal court to its eventual establishment of a distinct social space.
+
+The evolution of the bourgeois public sphere, as Habermas demonstrates, progressed from its courtly origins toward establishing autonomous social spaces.
+These new venues—primarily coffee houses and salons—fostered unrestricted intellectual exchange and critical debate, thereby facilitating political discourse.
+The intellectual class, comprising writers, philosophers, and cultural critics, proved instrumental in shaping 18th-century European thought.
+This emergent public sphere mediated between civil society's private domain and state authority, as it "through the vehicle of public opinion... put the state in touch with the needs of society" [@habermasStructuralTransformationPublic2015 p. 31], enabling rational-critical debate unfettered by traditional power structures.
+
+Without overstating Apadana's impact, the gallery served a vital civic function by creating a public forum. It became a modern agora where diverse social groups converged to discuss cultural and social issues.
+The space fostered informal but substantive dialogue, contributing to the emergence of an engaged citizenry and public discourse.
+
+While the circumstances in Iran during the 1940s differed markedly from 18th-century France, this unique historical window—the interregnum between Reza Shah's 1941 ouster and Mohammad Reza Shah's post-1953 consolidation—reveals parallel developments in the emergence of public sphere and modern art.
+The dissolution of state patronage, waning influence of Kamal-ol-Molk's institutions, and influx of European-educated artists created conditions that, despite their distinct historical context, fostered similar transformative processes in Iran's artistic landscape.
+
+The period from 1948 to 1951 was pivotal in Iranian history, characterized by political upheaval and mass mobilization, giving rise to a complex interplay between artistic and national aspirations.
+During this time, modernist artists like Ziapour sought relative independence and autonomy in their field, serving as an allegory for the broader national struggle for sovereignty.
+As Marxist literary critic Terry Eagleton astutely observes, “[t]he nation itself resembles a work of art, being autonomous, unified, self-founding and self-organizing.”[@eagletonTerryEagletonWhere]
+This parallel between artistic and national autonomy was particularly resonant for artists like Ziapour, whose native Gilan had a rich history of revolutionary activity.
+
+The political landscape was tumultuous.
+A failed assassination attempt on Mohammad Reza Shah in 1949 led to the banning of the Tudeh Party, Iran’s largest Communist party with a considerable influence on intellectuals and artists.
+Despite these setbacks, democratic forces gained momentum. The National Front, led by Mohammad Mosaddegh, successfully challenged the Shah’s power and pushed for the nationalization of Iran’s oil industry. In March 1951, legislation was passed to this effect, and the following month, Mosaddegh was sworn in as prime minister, ultimately nationalizing the Anglo-Iranian Oil Company (AIOC).
+
+This brief ascendancy of democratic forces seemed to parallel the flourishing of modernist art. Apadana, a key space for avant-garde artists, embodied this spirit of independence. However, its closure on April 13th, 1950, following the tragic death of Reza Jorjani on stage, foreshadowed the broader political reversal to come. The 1953 coup against Mosaddegh, abruptly ended this era of mass mobilization and democratic aspiration. This political upheaval had profound implications for the artistic sphere, marking the end of a period where the pursuit of artistic autonomy had aligned closely with the nation’s quest for self-determination.
 
 [^1]: A few works by Abdollah Ameri were also on display, but the exhibition was dedicated to the five aforementioned artists. Kiaras, “Apadana Gallary or the House of Fine Art: The History of Galleries in Tehran, Part 2.” See also Al-e Ahmad, “Namāyeshgah-e Naqqāshi Dar Āpādana.” The two previous exhibitions were as follows: A joint exhibition, Hossein Kazemi and Javadipour on Septempber 24, 1949 and Pezeshknia’s solo exhibition (along with the artist talk and a talk by Jalal Al-e Ahmad) on December 12, 1949.
 
@@ -65,3 +93,8 @@ The successes of Apadana Gallery paved the way for the commodification of modern
 [^5]: [@ziapoutPaintingNaqqashiPart1949] Unfortunately, majority of the quotes in the essay are not properly cited.
 As Aida Foroutan rightly points out, “… all in  a style of writing that is challenging even to the native speaker translator: they are badly punctuated, idiosyncratic in spelling, old fashioned in style and devoid of reference.” [@foroutanWhyFightingCock2016 p. xli]
 Notwithstanding the absence of proper citation for the statement (“the artist themselves should create a favorable and artistic environment, not the people”) it is very likely that Ziapour here is quoting Lhote.
+
+[^6]: Javadipour's account of petitioning the General Administration of Fine Arts (Edareh-ye koll-e honar-ha-ye ziba-ye keshvar) presents a chronological inconsistency, as Apadana closed on April 13, 1950 (24 Farvardin 1329), while the Administration was not established until January 23, 1951 (3 Bahman 1329).
+See [@parsikiaFightingRoosterKhorus2019 p. 160-1; @javadipourPaintingFirstGallery1387; @javadipurMysticSecretsSeekers2004]
+
+[^7]: Javādipur claims that they rejected private investors in an interview. @javadipourPaintingFirstGallery1387
